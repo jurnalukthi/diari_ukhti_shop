@@ -10,6 +10,14 @@ import random
 from google import genai
 from google.genai import types
 
+# Load .env manual jika file ada
+if os.path.exists(".env"):
+    with open(".env", "r") as f:
+        for line in f:
+            if "=" in line and not line.strip().startswith("#"):
+                key, val = line.strip().split("=", 1)
+                os.environ[key.strip()] = val.strip()
+
 GEMINI_API_KEYS = os.environ.get("GEMINI_API_KEYS", "").split(",") if os.environ.get("GEMINI_API_KEYS") else []
 
 def parse_audio_mime_type(mime_type: str) -> dict[str, int]:
@@ -200,7 +208,7 @@ def generate_voiceover(text, output_path):
     print(f"Voiceover disimpan di: {output_path}")
 
 def make_video(indeks, jenis, merk, audio_path, duration, promo_tag, marketing_title="", marketing_subtitle=""):
-    aset_dir = f"03_aset_produk/{indeks}"
+    aset_dir = f"05_product_generate/{indeks}"
     images = sorted([os.path.join(aset_dir, f) for f in os.listdir(aset_dir) if f.endswith(('.webp', '.jpg', '.png'))])
     if not images:
         raise Exception(f"Tidak ada gambar di folder aset: {aset_dir}")
@@ -219,55 +227,11 @@ def make_video(indeks, jenis, merk, audio_path, duration, promo_tag, marketing_t
     output_video = f"02_konten_affiliate/{indeks}/{indeks}_{jenis}_{merk}.mp4"
     os.makedirs(os.path.dirname(output_video), exist_ok=True)
 
-    # Indeks menjadi 3 digit (misal "01" -> "001")
-    try:
-        indeks_num = int(indeks)
-        etalase_str = f"No. Etalase: {indeks_num:03d}"
-    except ValueError:
-        etalase_str = f"No. Etalase: {indeks}"
-
-    # Path font menggunakan Lato (Modern / Estetis)
-    font_path = "/usr/share/fonts/truetype/lato/Lato-Bold.ttf"
-    font_regular_path = "/usr/share/fonts/truetype/lato/Lato-Regular.ttf"
-
-    # Escape teks untuk filter drawtext FFmpeg agar aman dari karakter khusus
-    promo_tag_escaped = promo_tag.replace('%', '\\\\\\%').replace("'", "").replace(':', '\\:')
-    etalase_str_escaped = etalase_str.replace('%', '\\\\\\%').replace("'", "").replace(':', '\\:')
-    title_escaped = marketing_title.replace('%', '\\\\\\%').replace("'", "").replace(':', '\\:')
-    subtitle_escaped = marketing_subtitle.replace('%', '\\\\\\%').replace("'", "").replace(':', '\\:')
-
-    # Filter FFmpeg: 
-    # 1. Split stream gambar
-    # 2. Stream 1 (background): scale ke 1080x1920 (crop/stretch), blur 20
-    # 3. Stream 2 (foreground): scale fit ke 1080x1920
-    # 4. Overlay foreground di atas background blur secara presisi di tengah
-    #    Catatan: Gambar produk (foreground) berukuran 1024x1024 ditaruh di tengah vertical: (1920-1024)/2 = 448
-    #    Jadi batas atas gambar produk ada di y=448, batas bawah ada di y=1472.
-    #    - Untuk judul marketing (atas produk):
-    #      * Gunakan 2 baris saja: marketing_title (ungu, fontsize=70) dan subtitle (putih box ungu, fontsize=45)
-    #      * Jarak dirapatkan (normal/estetis)
-    #      * marketing_title ditaruh di y=180.
-    #      * marketing_subtitle ditaruh di y=290 (jarak 110px).
-    #      * Jarak dari subtitle ke atas produk (y=448) adalah 448 - (290 + 45) = 113px (sesuai instruksi berjarak sekitar 100px).
-    #    - Untuk No. Etalase (bawah produk):
-    #      * Jarak dirapatkan sekitar 100px di bawah produk: y=1472 + 100 = 1572.
-    #      * etalase_str ditaruh di y=1572.
-    
-    # Gunakan teks asli tanpa modifikasi spasi antar huruf untuk jarak default
-    title_escaped = marketing_title.replace('%', '\\\\\\%').replace("'", "").replace(':', '\\:')
-    subtitle_escaped = marketing_subtitle.replace('%', '\\\\\\%').replace("'", "").replace(':', '\\:')
-
     filter_complex = (
         f"[0:v]split=2[bg_src][fg_src];"
         f"[bg_src]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=20:10[bg];"
         f"[fg_src]scale=1080:1920:force_original_aspect_ratio=decrease[fg];"
-        f"[bg][fg]overlay=(W-w)/2:(H-h)/2[tmp1];"
-        f"[tmp1]drawtext=fontfile='{font_path}':text='{title_escaped}':fontcolor=0x4A1E60:fontsize=70:"
-        f"x=(w-text_w)/2:y=180:borderw=10:bordercolor=0xFFFFF0,"
-        f"drawtext=fontfile='{font_regular_path}':text=' {subtitle_escaped} ':fontcolor=white:fontsize=45:"
-        f"x=(w-text_w)/2:y=290:box=1:boxcolor=0x4A1E60@0.9:boxborderw=10,"
-        f"drawtext=fontfile='{font_path}':text='{etalase_str_escaped}':fontcolor=yellow:fontsize=70:"
-        f"x=(w-text_w)/2:y=1572:borderw=5:bordercolor=black[v]"
+        f"[bg][fg]overlay=(W-w)/2:(H-h)/2[v]"
     )
 
     ffmpeg_cmd = (
@@ -280,6 +244,102 @@ def make_video(indeks, jenis, merk, audio_path, duration, promo_tag, marketing_t
     subprocess.run(ffmpeg_cmd, shell=True, check=True)
     os.remove(input_txt_path)
     print(f"Video berhasil dibuat di: {output_video}")
+
+def generate_poster_prompts(detail_produk, jenis, merk, indeks):
+    aset_dir = f"03_aset_produk/{indeks}"
+    images = sorted([f for f in os.listdir(aset_dir) if f.endswith(('.webp', '.jpg', '.png'))]) if os.path.exists(aset_dir) else []
+    ref_photo = f"{aset_dir}/{images[0]}" if images else f"{aset_dir}/image1.webp"
+
+    try:
+        indeks_num = int(indeks)
+        etalase_label = f"No. Etalase: {indeks_num:03d}"
+    except ValueError:
+        etalase_label = f"No. Etalase: {indeks}"
+
+    url = "http://localhost:20128/v1/chat/completions"
+    headers = {
+        "Authorization": f"Bearer {os.environ.get('PLAN_COMBO_API_KEY', '')}",
+        "Content-Type": "application/json"
+    }
+
+    prompt = f"""Saya menjual produk {jenis} {merk} via Shopee Affiliate.
+Berikut detail produk:
+
+{detail_produk}
+
+Tentukan 1 tema/gaya visual yang PALING COCOK untuk produk ini (misal: "Fresh/Bright", "Luxury/Premium", atau "Natural/Organic"). 
+Buat 5 prompt DALL-E 3 dalam bahasa Inggris untuk poster promosi Instagram Stories (9:16, 1080x1920px) menggunakan 1 tema/gaya visual terpilih tersebut agar kelima poster konsisten dan selaras saat digabung menjadi video.
+
+ATURAN WAJIB untuk setiap prompt:
+
+A. REPRODUKSI PRODUK IDENTIK
+Instruksikan untuk mereproduksi kemasan produk sama persis seperti foto referensi — bentuk, warna label, tulisan pada kemasan, ukuran, dan proporsi harus identik dengan foto asli. Sebutkan secara eksplisit detail kemasan dari deskripsi produk.
+
+B. LAYOUT POSTER — 3 ZONA VERTIKAL
+Bagi poster menjadi 3 zona vertikal yang proporsional:
+- ZONA ATAS (±35% tinggi): Visual produk utama — foto produk di tengah, dengan elemen dekoratif sesuai gaya. Variasikan angle kamera (misal: v1 front-view, v2 slightly side/angled, v3 top-down flat lay, v4 close-up detail, v5 low-angle look) dan susunan dekorasi agar visual dinamis tapi tetap dalam 1 gaya yang sama.
+- ZONA TENGAH (±40% tinggi): 3 LAYER INFORMASI PRODUK — teks marketing yang SAMA/KONSISTEN di semua versi untuk menjaga kontinuitas video:
+  * Layer 1: Nama produk (jelas, ukuran sedang-besar, warna kontras)
+  * Layer 2: Kandungan utama atau highlight promo (misal: "Niacinamide • Aloe Vera • UV Filter")
+  * Layer 3: Benefit utama atau legalitas (misal: "✓ BPOM Approved • Aman Bumil & Busui")
+- ZONA BAWAH (±25% tinggi): Background strip hitam transparan (~60% opacity) memanjang horizontal penuh dengan dua baris teks CTA warna PUTIH berukuran seimbang/proporsional (tidak ada yang terlalu kecil atau terlalu besar):
+  * Baris 1: "{etalase_label}" — font medium regular, warna putih, ukuran sedang
+  * Baris 2: "Cek link di bio!" — font bold, warna putih, ukuran sama persis atau hanya sedikit lebih besar dari baris 1, seimbang dan proporsional
+
+Format output JSON persis seperti ini:
+{{"v1": "prompt lengkap v1...", "v2": "prompt lengkap v2...", "v3": "prompt lengkap v3...", "v4": "prompt lengkap v4...", "v5": "prompt lengkap v5..."}}
+Kembalikan HANYA JSON di atas, tanpa teks penjelasan, tanpa markdown block ```json."""
+
+    payload = {
+        "model": "plan-combo",
+        "messages": [{"role": "user", "content": prompt}],
+        "temperature": 0.8,
+        "stream": False
+    }
+
+    print("Membuat poster prompts DALL-E 3...")
+    response = requests.post(url, headers=headers, json=payload)
+    response.raise_for_status()
+
+    content = response.json()['choices'][0]['message']['content'].strip()
+    if content.startswith("```json"):
+        content = content.replace("```json", "", 1)
+    if content.endswith("```"):
+        content = content[:-3]
+    content = content.strip()
+
+    prompts = json.loads(content)
+
+    output_dir = f"05_product_generate/{indeks}"
+    os.makedirs(output_dir, exist_ok=True)
+
+    nama_produk = f"{jenis} {merk}".replace("_", " ").title()
+    lines = [
+        f"=== POSTER PROMPTS: {nama_produk} ===",
+        f"Reference photo: {ref_photo}",
+        "Upload this photo to ChatGPT before pasting each prompt.",
+        "",
+    ]
+
+    style_labels = {
+        "v1": "COMPOSITION 1 (FRONT-VIEW)",
+        "v2": "COMPOSITION 2 (ANGLED/3-4)",
+        "v3": "COMPOSITION 3 (TOP-DOWN)",
+        "v4": "COMPOSITION 4 (CLOSE-UP)",
+        "v5": "COMPOSITION 5 (LOW-ANGLE)",
+    }
+
+    for key in ["v1", "v2", "v3", "v4", "v5"]:
+        lines.append(f"=== {key.upper()} - {style_labels[key]} ===")
+        lines.append(prompts.get(key, ""))
+        lines.append("")
+
+    prompts_path = f"{output_dir}/prompts.txt"
+    with open(prompts_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+
+    print(f"Poster prompts disimpan di: {prompts_path}")
+
 
 def extract_metadata_from_detail(detail_produk):
     lines = [line.strip() for line in detail_produk.split("\n") if line.strip()]
@@ -375,7 +435,13 @@ def main():
     marketing_subtitle = skrip.get("marketing_subtitle", "")
     make_video(indeks, jenis, merk, audio_path, duration, promo_tag, marketing_title, marketing_subtitle)
 
-    # 4. Update Halaman Web & Push ke GitHub
+    # 4. Generate Poster Prompts DALL-E 3
+    try:
+        generate_poster_prompts(detail_produk, jenis, merk, indeks)
+    except Exception as e:
+        print(f"Gagal membuat poster prompts: {e}")
+
+    # 5. Update Halaman Web & Push ke GitHub
     print("Memperbarui halaman web etalase...")
     try:
         # Jalankan script generate_page.py

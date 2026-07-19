@@ -1,10 +1,12 @@
 {
-  "hook_1": "Kulit kusam dan belang gara-gara matahari?",
-  "hook_2": "Sunscreen SPF 50 cuma 50 ribuan?!",
-  "hook_3": "Sunscreen pertama dengan collagen water, gak bikin dempul!",
-  "isi_suara": "Kenalin Hanasui Collagen Water Sunscreen SPF 50 PA++++. Ringan banget, cepat meresap, nol persen alkohol, dan gak ada whitecast. Kandungan Mugwort plus Vitamin E-nya bikin kulit tenang dan lembap seharian. Udah BPOM.",
-  "cta": "Yuk, buruan check out! Klik link di bio sekarang!",
-  "promo_tag": "SPF 50 CUMA 50 RIBUAN",
-  "caption_ig": "Sunscreen lokal terbaik! ☀️ Hanasui Collagen Water Sunscreen SPF 50 PA++++ lindungi kulit dari UV dan polusi tanpa bikin kusam atau lengket. Formula ringan, no whitecast, plus kandungan collagen bikin kulit kenyal. ✨\n\n👉 Klik link di bio untuk beli!\n\n#HanasuiSunscreen #SunscreenViral #RacunBelanja #SunscreenMurah #SkincareLokal",
-  "caption_tiktok": "Sunscreen SPF 50 termantul gak bikin abu-abu! 😭 Klik link di bio sekarang sebelum kehabisan! #Hanasui #SunscreenViral #Fyp #RacunBelanja #SunscreenMurah"
+  "hook_1": "Capek pakai sunscreen lengket bikin wajah kusam?",
+  "hook_2": "Sunscreen SPF 50 PA++++ terlengkap cuma 50 ribuan!",
+  "hook_3": "Sunscreen collagen water pertama, nol persen alkohol!",
+  "isi_suara": "Hanasui Collagen Water Sunscreen super ringan, cepat meresap, tanpa whitecast. Kandungan Mugwort dan Vitamin E kuatkan skin barrier serta lindungi dari polusi PM2,5. Kulit lembap terlindungi.",
+  "cta": "Dapatkan sekarang, klik link di bio!",
+  "promo_tag": "SPF 50 COLLAGEN BPOM",
+  "marketing_title": "Bebas Kulit Kusam",
+  "marketing_subtitle": "Sunscreen Collagen Murah",
+  "caption_ig": "Sunscreen SPF 50 PA++++ anti lengket! Hanasui Collagen Water Sunscreen formulanya ringan, 0% alkohol, plus ada collagen biar kulit kenyal bebas kusam. Klik link di bio untuk belanja! #sunscreenhanasui #hanasuicollagenwater #sunscreenmurah #skincarebpom #racunshopee",
+  "caption_tiktok": "Sunscreen collagen terlengkap gak bikin kantong jebol! Klik link di bio sekarang. #sunscreenviral #hanasuisunscreen #racunbelanja #skincareindonesia #fyp"
 }
