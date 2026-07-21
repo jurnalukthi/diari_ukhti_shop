@@ -1,12 +1,12 @@
 {
-  "hook_1": "Muka kusam banyak noda hitam?",
-  "hook_2": "Skincare set lengkap diskon 84 persen!",
-  "hook_3": "Kombinasi SymWhite 377 plus Ceramide viral!",
-  "isi_suara": "Bioaqua SymWhite 377 set. Kandungan SymWhite 377, Tranexamic Acid, Vitamin C. Samarkan flek hitam, cerahkan kulit kusam. Ada 7X Ceramide perbaiki skin barrier. Sunscreen SPF 50 PA++++ lindungi sinar UV. Bebas alkohol. BPOM aman.",
-  "cta": "Klik link di bio sekarang.",
-  "promo_tag": "DISKON 84% SET LENGKAP",
-  "marketing_title": "Solusi Flek Hitam",
-  "marketing_subtitle": "Paket Cerah Cepat",
-  "caption_ig": "Punya masalah noda hitam dan kulit kusam? Paket Bioaqua SymWhite 377 solusinya. Kandungan SymWhite 377, Tranexamic Acid, dan 7X Ceramide ampuh cerahkan kulit sekaligus perbaiki skin barrier. Lengkap dengan sunscreen SPF 50 PA++++. Sudah BPOM. Dapatkan diskon 84% sekarang. Klik link di bio.\n\n#skincareviral #bioaquasymwhite377 #paketglowing #flekhitam #skincarehemat",
-  "caption_tiktok": "Noda hitam hilang, kulit cerah maksimal pakai set Bioaqua SymWhite 377. Diskon 84% cuma hari ini. Klik link di bio sekarang!\n\n#fyp #skincareroutine #symwhite377 #racunshopee #bioaqua"
+  "hook_1": "Kulit kusam, flek hitam, bekas jerawat nggak ilang-ilang? Ini solusinya!",
+  "hook_2": "Set skincare lengkap 5 produk, harga coret dari 559 ribu jadi 91 ribuan doang!",
+  "hook_3": "SymWhite 377 lagi viral! Kandungan pencerah paling hits sekarang ada di sini!",
+  "isi_suara": "BIOAQUA SymWhite 377, satu set lengkap: facial wash, toner, serum, moisturizer, plus sunscreen SPF 50 PA++++! Kandungan SymWhite 377, Tranexamic Acid, Arbutin, Vitamin C, bikin kulit cerah dan flek samar. Ada 7X Ceramide sama Hyaluronic Acid buat lembap maksimal. Bebas alkohol, steroid, sudah BPOM!",
+  "cta": "Mau? Klik link di bio sekarang, stok terbatas!",
+  "promo_tag": "DISKON 84% BPOM RESMI",
+  "marketing_title": "Flek Bye Bye",
+  "marketing_subtitle": "Set Lengkap Hemat",
+  "caption_ig": "✨ Kulit cerah, flek samar, harga nggak bikin nangis!\n\nBIOAQUA SymWhite 377 hadir dalam 1 set lengkap 5 produk:\n🧴 Facial Wash 100g\n💧 Toner 120ml\n💉 Serum 30ml\n🫧 Moisturizer 50g\n☀️ Sunscreen SPF 50 PA++++\n\nKandungan unggulan:\n⭐ SymWhite 377 + Tranexamic Acid + Arbutin + Vitamin C → cerahkan kulit & samarkan flek\n⭐ 7X Ceramide → perbaiki skin barrier\n⭐ 3D Hyaluronic Acid → lembap tahan lama\n✅ Sudah BPOM | Bebas alkohol & steroid | Cocok semua jenis kulit\n\nHarga normal Rp559.999 — sekarang cuma Rp91.900!\nGrab sebelum kehabisan 🛒\n👉 Klik link di bio untuk order sekarang!\n\n#SymWhite377 #BIOAQUASkincare #SkincareHargaHemat #PaketSkincareKomplit #FadeDarkSpot #GlowingSkin #SkincareIndonesia #BPOMResmi #RecomendasiSkincare #SkincareAffiliate",
+  "caption_tiktok": "Set skincare 5 produk SymWhite 377 cuma 91rb?! Flek & kusam auto angkat 👀 Klik link di bio buruan! 🔥\n\n#SymWhite377 #SkincareViralIndonesia #PaketSkincareMurah #FYP #GlowingAffordable #RacunSkincare #BIOAQUASkincareSet #SkincareAffiliate #FadeDarkSpot #fypage"
 }

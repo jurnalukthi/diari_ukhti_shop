@@ -1,12 +1,12 @@
 {
-  "hook_1": "Jerawatan tapi takut pakai sunscreen?",
-  "hook_2": "Sunscreen acne care diskon enam puluh persen!",
-  "hook_3": "Sunscreen anti jerawat tanpa white cast.",
-  "isi_suara": "Wardah Acne Calming Sunscreen SPF 50. Kandung salicylic acid dan panthenol. Redakan jerawat, kontrol minyak, tanpa alkohol. Ringan banget di kulit.",
-  "cta": "Klik link di bio sekarang.",
-  "promo_tag": "DISKON 63 PERSEN BPOM",
-  "marketing_title": "Bebas Jerawat Sunscreen",
-  "marketing_subtitle": "Solusi Kulit Berminyak",
-  "caption_ig": "Sunscreen penyelamat kulit berjerawat! 🌟 Wardah UV Shield Acne Calming Sunscreen SPF 50 redakan kemerahan, kontrol minyak, tanpa white cast. Mengandung Salicylic Acid & Panthenol. Aman, BPOM, no alcohol. Klik link di bio untuk checkout! 🛒 #wardahsunscreen #sunscreenjerawat #acnecare #skincareindonesia #racunshopee",
-  "caption_tiktok": "Akhirnya nemu sunscreen anti jerawat yang ga bikin minyakan! 😭 Klik link di bio sebelum kehabisan diskonnya! #sunscreenviral #wardahacne #racunbelanja #fypindonesia #skincarejerawat"
+  "hook_1": "Jerawat nggak mau hilang padahal udah pakai sunscreen? Mungkin sunscreen-mu salah pilih!",
+  "hook_2": "Sunscreen serum anti jerawat ini harganya udah dicoret sampe 63 persen, serius!",
+  "hook_3": "No white cast, no alcohol, no fragrance — sunscreen ini emang beda buat kulit berjerawat!",
+  "isi_suara": "Wardah UV Shield Acne Calming Sunscreen SPF 50 PA++++, formulanya ringan kayak air, ada Salicylic Acid, Panthenol, Vitamin B3, sama Green Tea. Lawan bakteri jerawat, tenangkan kulit, nggak ninggalin white cast. Udah BPOM, dermatologically tested, aman buat kulit sensitif dan berminyak!",
+  "cta": "Mau? Klik link di bio sekarang sebelum kehabisan!",
+  "promo_tag": "DISKON 63% SPF50 ACNE",
+  "marketing_title": "Bye Jerawat",
+  "marketing_subtitle": "Sunscreen Aman",
+  "caption_ig": "Sunscreen yang beneran ngerti kulit berjerawat itu ada! ✨\n\nWardah UV Shield Acne Calming Sunscreen SPF 50 PA++++ hadir dengan 5 Calming Solution:\n🌿 Salicylic Acid — lawan bakteri jerawat\n💧 Panthenol + Allantoin — tenangkan kulit\n🍵 Green Tea + Vitamin B3 — kontrol minyak & meratakan warna kulit\n\nLightweight, no white cast, no alcohol, no fragrance, non-comedogenic. Udah BPOM & dermatologically tested!\n\nHarga mulai Rp37.200 aja (diskon sampai 63%!) 🔥\n\nKlik link di bio untuk order sekarang! 🛒\n\n#WardahSunscreen #AcneCalming #SunscreenJerawat #SkincareIndonesia #SPF50",
+  "caption_tiktok": "Sunscreen SPF 50 khusus kulit jerawatan, ringan banget & no white cast 😍 Diskon 63% sekarang! Klik link di bio buruan! 🔥 #WardahUVShield #SunscreenAcne #SkincareViralIndonesia #FYP #Sunscreen"
 }
