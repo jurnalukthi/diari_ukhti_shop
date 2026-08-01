@@ -122,8 +122,7 @@ def generate_html(products, output_dir):
             </div>
             <div class="flex flex-col justify-between flex-grow">
                 <div>
-                    <h2 class="text-white text-sm font-semibold line-clamp-2 leading-snug">{p['nama']}</h2>
-                    <div class="mt-1.5 flex flex-wrap items-center gap-2">
+                    <div class="mb-1.5 flex flex-wrap items-center gap-2">
                         <span class="bg-amber-400 text-gray-950 text-[10px] font-extrabold px-2.5 py-0.5 rounded shadow-sm">
                             No. Etalase: {p['indeks']}
                         </span>
@@ -131,6 +130,7 @@ def generate_html(products, output_dir):
                             {p['promo_tag']}
                         </span>
                     </div>
+                    <h2 class="text-white text-sm font-semibold line-clamp-2 leading-snug">{p['nama']}</h2>
                 </div>
                 <a href="{p['link']}" target="_blank" rel="noopener noreferrer" class="mt-2 w-full text-center bg-emerald-500 hover:bg-emerald-600 text-white text-xs font-bold py-2 px-4 rounded-lg shadow-lg shadow-emerald-500/20 hover:shadow-emerald-600/30 transition-all duration-200 flex items-center justify-center gap-1">
                     Beli Sekarang
