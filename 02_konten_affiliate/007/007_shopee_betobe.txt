@@ -1,0 +1,12 @@
+{
+  "hook_1": "Kulitmu kusam dan gampang iritasi kena matahari?",
+  "hook_2": "Sunscreen cuma 24 ribu tapi udah SPF 30 plus tone up!",
+  "hook_3": "Sunscreen yang bikin glowing instan tanpa whitecast, aman buat bumil busui!",
+  "isi_suara": "Cobain Betobe Sunscreen Day SPF 30! Proteksi UVA UVB, menenangkan kulit, ngurangin iritasi, plus efek tone up bikin wajah langsung cerah merata. Formulanya ringan, udah BPOM, halal, aman bumil busui. Harga cuma 24 ribuan dari 100 ribu!",
+  "cta": "Langsung klik link di bio sebelum harganya balik normal!",
+  "promo_tag": "DISKON 76% SPF30 TONE UP",
+  "marketing_title": "Glowing Instan",
+  "marketing_subtitle": "Sunscreen Hemat",
+  "caption_ig": "☀️ Proteksi kulit dari sinar UVA & UVB sekaligus bikin wajah tone up cerah merata? Betobe Sunscreen Day SPF 30 jawabannya!\n\n✅ SPF 30 proteksi maksimal\n✅ Efek tone up langsung cerah\n✅ Menenangkan & kurangi iritasi\n✅ Formula ringan nyaman harian\n✅ BPOM & Halal\n✅ Aman bumil & busui\n💰 Cuma Rp24.000 (dari Rp100.000!)\n\nMau kulit terlindungi sekaligus glowing? Klik link di bio sekarang! 🛒\n\n#SunscreenMurah #BetobeSunscreen #SunscreenToneUp #SkincareIndonesia #RacunSkincare #SunscreenBumil #GlowingSkin #SPF30 #SunscreenHarian #PromoSkincare",
+  "caption_tiktok": "Sunscreen 24rb tp efeknya kayak ratusan ribu?? 😳 BPOM halal aman bumil busui lagi! Klik link di bio buruan! 🛒 #sunscreenmurah #racunskincare #sunscreentoneup #glowingkulit #skincaremurah #fyp #viral #betobe #kulitglowing #rekomendasiskincare"
+}

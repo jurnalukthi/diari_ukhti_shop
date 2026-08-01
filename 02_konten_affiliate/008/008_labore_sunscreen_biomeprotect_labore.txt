@@ -1,0 +1,12 @@
+{
+  "hook_1": "Kulit berminyak dan jerawatan tapi takut pakai sunscreen?",
+  "hook_2": "Sunscreen SPF 50 cuma 42 ribuan plus voucher diskon 50 persen!",
+  "hook_3": "Sunscreen pertama yang teruji efektif di luar angkasa, no whitecast!",
+  "isi_suara": "Labore BiomeProtect ini physical sunscreen yang formulanya seringan air, nggak bikin breakout, nggak ada whitecast. Bisa kontrol minyak sampai 8 jam dan langsung redain kemerahan jerawat. Proteksinya lengkap dari UVA UVB blue light sampai infrared. Udah BPOM dan halal juga.",
+  "cta": "Buruan cek link di bio sebelum voucher diskonnya habis!",
+  "promo_tag": "SPF50 MULAI 42RB!",
+  "marketing_title": "Bye Jerawat",
+  "marketing_subtitle": "Sunscreen Ringan",
+  "caption_ig": "☀️ Sunscreen yang literally nggak bikin jerawat tambah parah? LABORE BiomeProtect jawabannya!\n\n✅ SPF 50+/PA++++ proteksi UVA, UVB, Blue Light & Infrared\n✅ Formula seringan air, zero whitecast\n✅ Kontrol minyak hingga 8 jam\n✅ Redakan kemerahan jerawat instan\n✅ Sudah BPOM & bersertifikat Halal\n🚀 Teknologi SunBiome™ teruji efektif di luar angkasa!\n\nHarga cuma mulai 42rb + ada voucher diskon 50%! 🤯\n\n🔗 Klik link di bio buat checkout sekarang!\n\n#SunscreenAcne #LaboreIndonesia #SunscreenKulitBerminyak #SkincareRacun #PhysicalSunscreen #SunscreenNoWhitecast #KulitJerawat #SPF50 #SkincareMurah #RacunSkincare",
+  "caption_tiktok": "sunscreen teruji di luar angkasa tapi harganya 42rb?? kontrol minyak 8 jam no whitecast🫣 klik link di bio!\n\n#sunscreenracun #labore #sunscreenkulitberminyak #sunscreenjerawat #fyp #racunskincare #skincaremurah #spf50 #reviewsunscreen #kulitberminyak"
+}

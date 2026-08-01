@@ -280,7 +280,11 @@ Buat 5 prompt DALL-E 3 dalam bahasa Inggris untuk poster promosi Instagram Stori
 ATURAN WAJIB untuk setiap prompt:
 
 A. REPRODUKSI PRODUK IDENTIK
-Instruksikan untuk mereproduksi kemasan produk sama persis seperti foto referensi — bentuk, warna label, tulisan pada kemasan, ukuran, dan proporsi harus identik dengan foto asli. Sebutkan secara eksplisit detail kemasan dari deskripsi produk.
+Instruksikan untuk mereproduksi kemasan produk sama persis seperti foto referensi. 
+Perhatikan dengan teliti bentuk kemasan produk pada foto: berupa squeeze tube (tabung pencet) plastik warna putih solid tidak transparan (solid white squeeze tube) dengan tutup fliptop warna putih di bagian bawah. 
+Di dalam tube, berisi soothing cream.
+Label pada tube adalah stiker putih bersih berbentuk persegi panjang vertikal yang ditempel di bagian depan badan tube. Label tersebut memuat logo tulisan "SKIN1004" di bagian atas, tulisan "MADAGASCAR CENTELLA SOOTHING CREAM" dengan font serif hitam, dan di bagian bawah label terdapat ilustrasi gambar lanskap pemandangan Madagascar (pepohonan Baobab, bukit, warna hijau-kuning-kecokelatan).
+Bentuk, warna label, tulisan pada kemasan, ukuran, dan proporsi harus identik dengan foto asli. Sebutkan secara eksplisit detail kemasan dari deskripsi produk.
 
 B. LAYOUT POSTER — 3 ZONA VERTIKAL
 Bagi poster menjadi 3 zona vertikal yang proporsional:
