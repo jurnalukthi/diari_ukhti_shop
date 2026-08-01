@@ -1,0 +1,12 @@
+{
+  "hook_1": "Kulit kusam dan kendur bikin nggak pede?",
+  "hook_2": "Krim malam glowing mulai dari seratus ribuan aja!",
+  "hook_3": "Rahasia kulit kenyal glowing dalam 30 hari? Niacinamide ini sih!",
+  "isi_suara": "Cobain Erto's Glowing Night Cream! Kandungan niacinamide dan allantoin-nya bantu mencerahkan, mengencangkan, plus samarkan noda hitam. Teksturnya creamy, cepat nyerap, dan udah BPOM serta halal. Pakai rutin tiap malam, kulit makin kenyal dan glowing!",
+  "cta": "Kepo? Langsung klik link di bio ya!",
+  "promo_tag": "GLOWING DALAM 30 HARI",
+  "marketing_title": "Kulit Glowing Kenyal",
+  "marketing_subtitle": "Krim Malam BPOM",
+  "caption_ig": "✨ Mau kulit glowing & kenyal tanpa ribet? Erto's Glowing Night Cream solusinya!\n\n🌙 Pakai tiap malam, rasain manfaatnya:\n🤍 Mencerahkan & samarkan noda hitam\n🤍 Mengencangkan kulit wajah\n🤍 Kulit lebih kenyal dalam 30 hari\n🤍 Kandungan Niacinamide, Allantoin & Glycerin\n🤍 Sudah BPOM & Halal ✅\n\nNetto 12,5gr | SPF 15 | Tekstur creamy, cepat nyerap 💆‍♀️\n\nYuk klik link di bio untuk harga spesial! 🛒💕\n\n#ErtosGlowingNightCream #KrimMalamGlowing #SkincareIndonesia #KulitGlowing #NiacinamideCream #KulitCerah #AntiAging #RacunSkincare #SkincareHalal #KrimPencerah",
+  "caption_tiktok": "Kulit kusam? Coba pakai ini tiap malam deh, 30 hari kulit kenyal glowing! 😍🌙 Klik link di bio buat dapetin! 🛒\n\n#ertosglowing #krimmalam #skincareracun #kulitglowing #niacinamide #fyp #viral #racunbelanja #skincareindonesia #reviewskincare"
+}

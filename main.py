@@ -115,7 +115,7 @@ Berikan output dalam format JSON terstruktur persis seperti ini agar mudah dipro
 Kembalikan HANYA format JSON di atas, tanpa teks penjelasan tambahan, tanpa markdown block ```json."""
 
     payload = {
-        "model": "plan-combo",
+        "model": "plan-heavy",
         "messages": [
             {"role": "user", "content": prompt}
         ],
@@ -209,7 +209,14 @@ def generate_voiceover(text, output_path):
 
 def make_video(indeks, jenis, merk, audio_path, duration, promo_tag, marketing_title="", marketing_subtitle=""):
     aset_dir = f"05_product_generate/{indeks}"
-    images = sorted([os.path.join(aset_dir, f) for f in os.listdir(aset_dir) if f.endswith(('.webp', '.jpg', '.png'))])
+    raw_images = sorted([f for f in os.listdir(aset_dir) if f.endswith(('.webp', '.jpg', '.png'))])
+    images = []
+    for i, img_name in enumerate(raw_images, start=1):
+        old_path = os.path.join(aset_dir, img_name)
+        new_path = os.path.join(aset_dir, f"image_{i:02d}.png")
+        if old_path != new_path:
+            os.rename(old_path, new_path)
+        images.append(new_path)
     if not images:
         raise Exception(f"Tidak ada gambar di folder aset: {aset_dir}")
 
@@ -291,7 +298,7 @@ Format output JSON persis seperti ini:
 Kembalikan HANYA JSON di atas, tanpa teks penjelasan, tanpa markdown block ```json."""
 
     payload = {
-        "model": "plan-combo",
+        "model": "plan-heavy",
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.8,
         "stream": False
