@@ -41,7 +41,7 @@ Proses otomatis:
 1. Membaca deskripsi produk dan mengekstrak meta-data.
 2. Menggunakan API `plan-combo` untuk membuat skrip promosi JSON (hook x3, isi, CTA, caption IG & TikTok).
 3. Menggunakan API Gemini TTS (`gemini-3.1-flash-tts-preview`) dengan rotasi API Key untuk voiceover (`04_voice_over/001.wav`).
-4. Menggabungkan poster dari `05_product_generate/001/` + voiceover menggunakan FFmpeg → video potret 9:16 dengan background blur adaptif, teks marketing di atas, label etalase di bawah.
+4. Menggabungkan poster dari `05_product_generate/001/` + voiceover menggunakan FFmpeg → video potret 9:16 dengan background blur adaptif, teks marketing di atas, label etalase melayang (100px dari bawah) di tengah strip transparan.
 5. Update halaman web etalase dan push ke GitHub.
 
 *Video siap diunggah tersimpan di `02_konten_affiliate/001/001_<jenis_produk>_<merk_produk>.mp4`.*

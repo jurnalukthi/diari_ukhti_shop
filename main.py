@@ -293,7 +293,7 @@ Bagi poster menjadi 3 zona vertikal yang proporsional:
   * Layer 1: Nama produk (jelas, ukuran sedang-besar, warna kontras)
   * Layer 2: Kandungan utama atau highlight promo (misal: "Niacinamide • Aloe Vera • UV Filter")
   * Layer 3: Benefit utama atau legalitas (misal: "✓ BPOM Approved • Aman Bumil & Busui")
-- ZONA BAWAH (±25% tinggi): Background strip hitam transparan (~60% opacity) memanjang horizontal penuh dengan dua baris teks CTA warna PUTIH berukuran seimbang/proporsional (tidak ada yang terlalu kecil atau terlalu besar):
+- ZONA BAWAH: Background strip hitam transparan (~60% opacity) melayang horizontal penuh (floating strip), diposisikan agak naik sekitar 100px dari ujung bawah poster (sehingga background poster dan visual di bawahnya tetap berlanjut sampai paling bawah), dengan dua baris teks CTA warna PUTIH perfectly centered secara vertikal dan horizontal dengan padding atas dan bawah seimbang (tidak ada yang terlalu dekat dengan tepi atas/bawah strip hitam):
   * Baris 1: "{etalase_label}" — font medium regular, warna putih, ukuran sedang
   * Baris 2: "Cek link di bio!" — font bold, warna putih, ukuran sama persis atau hanya sedikit lebih besar dari baris 1, seimbang dan proporsional
 

@@ -1,0 +1,12 @@
+{
+  "hook_1": "Muka kilang minyak dan gampang jerawatan? Jangan skip sunscreen ini!",
+  "hook_2": "Gila, sunscreen viral ini lagi diskon 64 persen jadi 40 ribuan aja!",
+  "hook_3": "Sunscreen tinted hybrid yang bikin auto cakep tanpa dempul!",
+  "isi_suara": "Facetology Triple Care SPF 40. Hybrid sunscreen ini juara nahan minyak dan aman buat acne prone. Ada Mugwort sama Cica yang bikin kalem jerawat. Hasilnya semi-matte, nutupin kemerahan, dan no whitecast. Udah BPOM juga loh!",
+  "cta": "Mumpung lagi diskon parah, buruan klik link di bio buat amankan stoknya!",
+  "promo_tag": "DISKON 64 PERSEN",
+  "marketing_title": "Bebas Kilap",
+  "marketing_subtitle": "Sunscreen Jerawat",
+  "caption_ig": "Susah cari sunscreen buat kulit berminyak & berjerawat? 🥺 Tenang, Facetology Triple Care Sunscreen jawabannya! ✨ Hybrid sunscreen dengan SPF 40 PA+++ ini punya oil control juara, hasil semi-matte, plus ada efek tinted buat ngeratain warna kulit. Aman banget karena ada Cica & Mugwort. Udah BPOM ya! 💖 Yuk klik link di bio sebelum kehabisan diskon 64%-nya! 👇 #Facetology #SunscreenOilySkin #SunscreenJerawat #SkincareRoutine #RacunSkincare",
+  "caption_tiktok": "Sunscreen 40 ribuan yang bikin muka auto cakep bebas kilap! 😱 Cek link di bio sekarang! #Facetology #SunscreenViral #RacunSkincare #SkincareMurah #FYP"
+}
