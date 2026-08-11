@@ -1,0 +1,83 @@
+=== POSTER PROMPTS: Elzet Skincare Bpom Elzet Skincare ===
+Reference photo: 03_aset_produk/010/image1.webp
+Upload this photo to ChatGPT before pasting each prompt.
+
+=== V1 - COMPOSITION 1 (FRONT-VIEW) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) in a FRESH/BRIGHT visual style with a clean white-to-soft-mint gradient background and subtle floating translucent green leaf accents throughout. Divide the poster into 3 vertical zones:
+
+ZONA ATAS (top ~35% of height): Show a young Indonesian Muslimah woman wearing a neat pastel-colored hijab, natural-looking skin (not overly glowing or whitened), smiling gently and warmly at the camera, visible from chest up, positioned on the left side. On her right side, display the product reproduced EXACTLY as follows: a small white plastic squeeze tube (salep pencet) with a white cylindrical cap at the bottom, the tube body has a bright green accent band at the top with a green leaf logo, and text reading 'LIZ DARKSPOT NIGHT CREAM' and 'FLEK & WHITENING' on the front label. Next to the tube, include the product box: a vertical rectangular white cardboard box with a curved green border accent at the bottom, a green leaf logo at the bottom-left corner, and vertical text 'DARKSPOT NIGHT CREAM' inside a green oval shape, plus text 'FLEK & WHITENING'. Both tube and box shown front-facing at a slight natural angle. Soft natural lighting, gentle shadow beneath products. Small decorative fresh green leaves and tiny white botanical line-art elements scattered around the product and model area.
+
+ZONA TENGAH (middle ~40% of height): Clean white or very light mint background section with three horizontal layers of marketing text, all center-aligned:
+- Layer 1 (top): Bold text 'ELZET SKINCARE' in dark green, large font, and directly below in slightly smaller bold font 'Darkspot Night Cream' in black.
+- Layer 2 (middle): Text 'Retinol • Alpha Arbutin • Niacinamide' in medium green font, medium size, with small decorative dot separators.
+- Layer 3 (bottom): Text '✓ BPOM NA18230101987 • Salep Flek Malam' in dark gray or black font, medium size, with a small green checkmark icon.
+
+ZONA BAWAH (bottom zone): The background and visual elements continue all the way to the very bottom edge of the poster. A floating horizontal strip with semi-transparent black background (~60% opacity) spans the full width, positioned approximately 100px above the bottom edge of the poster (not touching the bottom). Inside this strip, two lines of WHITE text perfectly centered both vertically and horizontally with equal padding top and bottom:
+- Line 1: 'No. Etalase: 010' in medium regular white font
+- Line 2: 'Cek link di bio!' in bold white font, same size or only very slightly larger than line 1, balanced and proportional.
+
+Overall mood: fresh, bright, clean, trustworthy, with a cohesive green-and-white color palette. Professional product photography style combined with graphic design poster layout. High resolution, crisp details.
+
+=== V2 - COMPOSITION 2 (ANGLED/3-4) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) in a FRESH/BRIGHT visual style with a clean white-to-soft-mint gradient background and subtle floating translucent green leaf accents throughout. Divide the poster into 3 vertical zones:
+
+ZONA ATAS (top ~35% of height): Display the product reproduced EXACTLY as follows, shot from a SLIGHTLY ANGLED SIDE VIEW (approximately 30-degree angle from front-right): a small white plastic squeeze tube (salep pencet) with a white cylindrical cap at the bottom, the tube body has a bright green accent band at the top with a green leaf logo, and text reading 'LIZ DARKSPOT NIGHT CREAM' and 'FLEK & WHITENING' on the front label. Next to the tube, the product box: a vertical rectangular white cardboard box with a curved green border accent at the bottom, a green leaf logo at the bottom-left corner, and vertical text 'DARKSPOT NIGHT CREAM' inside a green oval shape, plus text 'FLEK & WHITENING'. The box is positioned slightly behind and to the left of the tube. Products placed on a clean white or light mint surface. Soft diffused lighting from the upper left, gentle realistic shadows. Decorative elements: a few fresh green leaves (centella asiatica style) and small water droplets scattered naturally around the products on the surface. No human model.
+
+ZONA TENGAH (middle ~40% of height): Clean white or very light mint background section with three horizontal layers of marketing text, all center-aligned:
+- Layer 1 (top): Bold text 'ELZET SKINCARE' in dark green, large font, and directly below in slightly smaller bold font 'Darkspot Night Cream' in black.
+- Layer 2 (middle): Text 'Retinol • Alpha Arbutin • Niacinamide' in medium green font, medium size, with small decorative dot separators.
+- Layer 3 (bottom): Text '✓ BPOM NA18230101987 • Salep Flek Malam' in dark gray or black font, medium size, with a small green checkmark icon.
+
+ZONA BAWAH (bottom zone): The background and visual elements continue all the way to the very bottom edge of the poster. A floating horizontal strip with semi-transparent black background (~60% opacity) spans the full width, positioned approximately 100px above the bottom edge of the poster (not touching the bottom). Inside this strip, two lines of WHITE text perfectly centered both vertically and horizontally with equal padding top and bottom:
+- Line 1: 'No. Etalase: 010' in medium regular white font
+- Line 2: 'Cek link di bio!' in bold white font, same size or only very slightly larger than line 1, balanced and proportional.
+
+Overall mood: fresh, bright, clean, trustworthy, with a cohesive green-and-white color palette. Professional product photography style combined with graphic design poster layout. High resolution, crisp details.
+
+=== V3 - COMPOSITION 3 (TOP-DOWN) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) in a FRESH/BRIGHT visual style with a clean white-to-soft-mint gradient background and subtle floating translucent green leaf accents throughout. Divide the poster into 3 vertical zones:
+
+ZONA ATAS (top ~35% of height): Display the product in a TOP-DOWN FLAT LAY composition, shot from directly above. The product reproduced EXACTLY: a small white plastic squeeze tube (salep pencet) with a white cylindrical cap at the bottom, the tube body has a bright green accent band at the top with a green leaf logo, and text reading 'LIZ DARKSPOT NIGHT CREAM' and 'FLEK & WHITENING' on the front label. The tube is laid diagonally on the surface. Next to it, the product box laid flat: a vertical rectangular white cardboard box with a curved green border accent at the bottom, a green leaf logo at the bottom-left corner, and vertical text 'DARKSPOT NIGHT CREAM' inside a green oval shape, plus text 'FLEK & WHITENING'. Arranged on a clean white marble or light textured surface. Surrounding the products in the flat lay: fresh green centella asiatica leaves, a small white ceramic dish with a dollop of white cream, thin slices of aloe vera, and tiny white flowers. Soft even overhead lighting, minimal shadows. No human model.
+
+ZONA TENGAH (middle ~40% of height): Clean white or very light mint background section with three horizontal layers of marketing text, all center-aligned:
+- Layer 1 (top): Bold text 'ELZET SKINCARE' in dark green, large font, and directly below in slightly smaller bold font 'Darkspot Night Cream' in black.
+- Layer 2 (middle): Text 'Retinol • Alpha Arbutin • Niacinamide' in medium green font, medium size, with small decorative dot separators.
+- Layer 3 (bottom): Text '✓ BPOM NA18230101987 • Salep Flek Malam' in dark gray or black font, medium size, with a small green checkmark icon.
+
+ZONA BAWAH (bottom zone): The background and visual elements continue all the way to the very bottom edge of the poster. A floating horizontal strip with semi-transparent black background (~60% opacity) spans the full width, positioned approximately 100px above the bottom edge of the poster (not touching the bottom). Inside this strip, two lines of WHITE text perfectly centered both vertically and horizontally with equal padding top and bottom:
+- Line 1: 'No. Etalase: 010' in medium regular white font
+- Line 2: 'Cek link di bio!' in bold white font, same size or only very slightly larger than line 1, balanced and proportional.
+
+Overall mood: fresh, bright, clean, trustworthy, with a cohesive green-and-white color palette. Professional product photography style combined with graphic design poster layout. High resolution, crisp details.
+
+=== V4 - COMPOSITION 4 (CLOSE-UP) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) in a FRESH/BRIGHT visual style with a clean white-to-soft-mint gradient background and subtle floating translucent green leaf accents throughout. Divide the poster into 3 vertical zones:
+
+ZONA ATAS (top ~35% of height): Display the product in a CLOSE-UP DETAIL shot, camera focused tightly on the upper portion of the tube showing the label and green accent band clearly. The product reproduced EXACTLY: a small white plastic squeeze tube (salep pencet) with a white cylindrical cap at the bottom, the tube body has a bright green accent band at the top with a green leaf logo, and text reading 'LIZ DARKSPOT NIGHT CREAM' and 'FLEK & WHITENING' on the front label. The close-up shows the tube slightly squeezed with a small amount of white cream emerging from the nozzle at the top. The product box is partially visible behind the tube, slightly out of focus (bokeh): a vertical rectangular white cardboard box with a curved green border accent at the bottom, a green leaf logo at the bottom-left corner, and vertical text 'DARKSPOT NIGHT CREAM' inside a green oval shape, plus text 'FLEK & WHITENING'. Soft macro-style lighting, shallow depth of field, a couple of fresh green leaves in the foreground slightly blurred. Clean white-mint background. No human model.
+
+ZONA TENGAH (middle ~40% of height): Clean white or very light mint background section with three horizontal layers of marketing text, all center-aligned:
+- Layer 1 (top): Bold text 'ELZET SKINCARE' in dark green, large font, and directly below in slightly smaller bold font 'Darkspot Night Cream' in black.
+- Layer 2 (middle): Text 'Retinol • Alpha Arbutin • Niacinamide' in medium green font, medium size, with small decorative dot separators.
+- Layer 3 (bottom): Text '✓ BPOM NA18230101987 • Salep Flek Malam' in dark gray or black font, medium size, with a small green checkmark icon.
+
+ZONA BAWAH (bottom zone): The background and visual elements continue all the way to the very bottom edge of the poster. A floating horizontal strip with semi-transparent black background (~60% opacity) spans the full width, positioned approximately 100px above the bottom edge of the poster (not touching the bottom). Inside this strip, two lines of WHITE text perfectly centered both vertically and horizontally with equal padding top and bottom:
+- Line 1: 'No. Etalase: 010' in medium regular white font
+- Line 2: 'Cek link di bio!' in bold white font, same size or only very slightly larger than line 1, balanced and proportional.
+
+Overall mood: fresh, bright, clean, trustworthy, with a cohesive green-and-white color palette. Professional product photography style combined with graphic design poster layout. High resolution, crisp details.
+
+=== V5 - COMPOSITION 5 (LOW-ANGLE) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) in a FRESH/BRIGHT visual style with a clean white-to-soft-mint gradient background and subtle floating translucent green leaf accents throughout. Divide the poster into 3 vertical zones:
+
+ZONA ATAS (top ~35% of height): Display the product from a LOW-ANGLE HERO SHOT perspective, camera positioned below looking slightly upward at the product, making it appear grand and prominent. The product reproduced EXACTLY: a small white plastic squeeze tube (salep pencet) with a white cylindrical cap at the bottom, the tube body has a bright green accent band at the top with a green leaf logo, and text reading 'LIZ DARKSPOT NIGHT CREAM' and 'FLEK & WHITENING' on the front label. The tube stands upright in the center, slightly tilted toward the viewer. The product box stands upright next to the tube on the right: a vertical rectangular white cardboard box with a curved green border accent at the bottom, a green leaf logo at the bottom-left corner, and vertical text 'DARKSPOT NIGHT CREAM' inside a green oval shape, plus text 'FLEK & WHITENING'. Dramatic but soft lighting from behind and above creating a gentle glow/halo effect around the products. A few fresh green leaves arranged at the base of the products. Clean white-mint gradient background with a subtle radial light burst behind the products. No human model.
+
+ZONA TENGAH (middle ~40% of height): Clean white or very light mint background section with three horizontal layers of marketing text, all center-aligned:
+- Layer 1 (top): Bold text 'ELZET SKINCARE' in dark green, large font, and directly below in slightly smaller bold font 'Darkspot Night Cream' in black.
+- Layer 2 (middle): Text 'Retinol • Alpha Arbutin • Niacinamide' in medium green font, medium size, with small decorative dot separators.
+- Layer 3 (bottom): Text '✓ BPOM NA18230101987 • Salep Flek Malam' in dark gray or black font, medium size, with a small green checkmark icon.
+
+ZONA BAWAH (bottom zone): The background and visual elements continue all the way to the very bottom edge of the poster. A floating horizontal strip with semi-transparent black background (~60% opacity) spans the full width, positioned approximately 100px above the bottom edge of the poster (not touching the bottom). Inside this strip, two lines of WHITE text perfectly centered both vertically and horizontally with equal padding top and bottom:
+- Line 1: 'No. Etalase: 010' in medium regular white font
+- Line 2: 'Cek link di bio!' in bold white font, same size or only very slightly larger than line 1, balanced and proportional.
+
+Overall mood: fresh, bright, clean, trustworthy, with a cohesive green-and-white color palette. Professional product photography style combined with graphic design poster layout. High resolution, crisp details.

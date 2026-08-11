@@ -281,18 +281,28 @@ ATURAN WAJIB untuk setiap prompt:
 
 A. REPRODUKSI PRODUK IDENTIK
 Instruksikan untuk mereproduksi kemasan produk sama persis seperti foto referensi. 
-Perhatikan dengan teliti bentuk kemasan produk pada foto: berupa squeeze tube (tabung pencet) plastik warna putih solid tidak transparan (solid white squeeze tube) dengan tutup fliptop warna putih di bagian bawah. 
-Di dalam tube, berisi soothing cream.
-Label pada tube adalah stiker putih bersih berbentuk persegi panjang vertikal yang ditempel di bagian depan badan tube. Label tersebut memuat logo tulisan "SKIN1004" di bagian atas, tulisan "MADAGASCAR CENTELLA SOOTHING CREAM" dengan font serif hitam, dan di bagian bawah label terdapat ilustrasi gambar lanskap pemandangan Madagascar (pepohonan Baobab, bukit, warna hijau-kuning-kecokelatan).
-Bentuk, warna label, tulisan pada kemasan, ukuran, dan proporsi harus identik dengan foto asli. Sebutkan secara eksplisit detail kemasan dari deskripsi produk.
+Perhatikan detail kemasan dari deskripsi produk dan foto referensi dengan sangat teliti:
+- Produk terdiri dari dua moisturizer berbentuk tube ramping tegak (sleek vertical squeeze tube): (1) Light+ by Wardah Glowshot Day Moisturizer (sebelah kiri), dan (2) Light+ by Wardah Hydrashot Intensive Moisturizer (sebelah kanan).
+- Desain Tube:
+  * Warna: Warna dasar biru pastel muda soft / biru langit cerah yang solid (light baby blue / soft sky blue).
+  * Bagian Bawah: Memiliki tutup silinder/putar (screw-on cap) berwarna biru yang lebih tua/gelap (medium steel blue) yang senada.
+  * Teks Utama: Di bagian atas badan tube, terdapat logo minimalis bertuliskan "Wardah" warna putih tipis. Di bawahnya, terdapat tulisan vertikal besar "light" yang ditulis dari atas ke bawah, dengan lambang plus "+" kecil yang berkilau di pojok kanan bawah tulisan "light".
+  * Teks Detail: 
+    - Untuk Glowshot Day Moisturizer (kiri): Memiliki teks kecil berwarna putih di sisi kiri bawah "NANO NIACINAMIDE COMPLEX* SPF 35 PA+++", dan di bagian bawah bertuliskan "Glowshot Day Moisturizer".
+    - Untuk Hydrashot Intensive Moisturizer (kanan): Memiliki teks kecil berwarna putih di sisi kiri bawah "NANO NIACINAMIDE COMPLEX* HYALURONIC POLYGLUTAMIC", dan di bagian bawah bertuliskan "Hydrashot Intensive Moisturizer".
+- Bentuk kemasan berupa tube panjang ramping biru muda, warna tutup biru tua, tulisan vertikal "light+" putih yang tebal, logo Wardah, dan proporsi detail harus direproduksi sama persis dan identik dengan foto asli. Gaya visual minimalis klinis yang bersih.
 
-B. LAYOUT POSTER — 3 ZONA VERTIKAL
+B. MODEL MANUSIA
+- Khusus untuk V1 (Prompt Pertama): Tampilkan wajah/setengah badan wanita Muslimah Indonesia (hijab/muslimah) berwajah natural dan bersih (tidak perlu terlalu glowing atau putih berlebihan, cukup natural alami) sedang tersenyum lembut menghadap kamera. Posisikan wanita tersebut di samping produk secara estetis di ZONA ATAS.
+- Untuk V2 sampai V5: Cukup tampilkan produk saja tanpa model manusia, melainkan dengan variasi angle dan komposisi produk yang berbeda-beda.
+
+C. LAYOUT POSTER — 3 ZONA VERTIKAL
 Bagi poster menjadi 3 zona vertikal yang proporsional:
-- ZONA ATAS (±35% tinggi): Visual produk utama — foto produk di tengah, dengan elemen dekoratif sesuai gaya. Variasikan angle kamera (misal: v1 front-view, v2 slightly side/angled, v3 top-down flat lay, v4 close-up detail, v5 low-angle look) dan susunan dekorasi agar visual dinamis tapi tetap dalam 1 gaya yang sama.
+- ZONA ATAS (±35% tinggi): Visual utama (V1: Model wanita hijab Indonesia tersenyum natural + produk; V2-V5: Produk saja dengan variasi angle kamera seperti front-view, angled 3-4, top-down flat lay, close-up detail, low-angle look).
 - ZONA TENGAH (±40% tinggi): 3 LAYER INFORMASI PRODUK — teks marketing yang SAMA/KONSISTEN di semua versi untuk menjaga kontinuitas video:
   * Layer 1: Nama produk (jelas, ukuran sedang-besar, warna kontras)
-  * Layer 2: Kandungan utama atau highlight promo (misal: "Niacinamide • Aloe Vera • UV Filter")
-  * Layer 3: Benefit utama atau legalitas (misal: "✓ BPOM Approved • Aman Bumil & Busui")
+  * Layer 2: Kandungan utama atau highlight promo (misal: "Niacinamide • Glutathione • Hyaluronic Acid")
+  * Layer 3: Benefit utama atau legalitas (misal: "✓ BPOM Approved • Pelembab Wajah Pagi & Malam")
 - ZONA BAWAH: Background strip hitam transparan (~60% opacity) melayang horizontal penuh (floating strip), diposisikan agak naik sekitar 100px dari ujung bawah poster (sehingga background poster dan visual di bawahnya tetap berlanjut sampai paling bawah), dengan dua baris teks CTA warna PUTIH perfectly centered secara vertikal dan horizontal dengan padding atas dan bawah seimbang (tidak ada yang terlalu dekat dengan tepi atas/bawah strip hitam):
   * Baris 1: "{etalase_label}" — font medium regular, warna putih, ukuran sedang
   * Baris 2: "Cek link di bio!" — font bold, warna putih, ukuran sama persis atau hanya sedikit lebih besar dari baris 1, seimbang dan proporsional

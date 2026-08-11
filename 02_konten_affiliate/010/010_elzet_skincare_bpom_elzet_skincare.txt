@@ -1,0 +1,12 @@
+{
+  "hook_1": "Flek hitam sama bekas jerawat ganggu banget? Ini solusinya!",
+  "hook_2": "Cuma 39 ribuan dapet krim flek BPOM? Serius!",
+  "hook_3": "Racun! Krim malam ini isinya Retinol plus Alpha Arbutin lho!",
+  "isi_suara": "Elzet Skincare Darkspot Night Cream, udah BPOM ya. Kandungannya Retinol, Alpha Arbutin, Niacinamide, sama Centella Asiatica. Bantu samarkan flek hitam, melasma, bekas jerawat, sekaligus bikin wajah lebih cerah dan halus. Cocok semua jenis kulit. Harga cuma 39 ribuan dari 59 ribu!",
+  "cta": "Langsung klik link di bio sebelum harganya balik normal!",
+  "promo_tag": "BPOM CUMA 39RIBUAN!",
+  "marketing_title": "Bye Flek Hitam",
+  "marketing_subtitle": "Krim Malam BPOM",
+  "caption_ig": "✨ Flek hitam & bekas jerawat bikin nggak pede? Cobain Elzet Skincare Darkspot Night Cream! 💛\n\n🔬 Kandungan:\n• Retinol\n• Alpha Arbutin\n• Niacinamide\n• Centella Asiatica\n\n✅ Sudah BPOM NA18230101987\n✅ Cocok semua jenis kulit\n✅ Bantu cerahkan & samarkan flek, melasma, hiperpigmentasi, bekas jerawat\n\n💸 Lagi diskon dari Rp59.900 jadi cuma Rp39.900!\n\nMau kulit mulus & glowing? Klik link di bio sekarang! 🛒\n\n#ElzetSkincare #KrimFlek #DarkspotCream #SkincareBPOM #KrimMalam #RetinolCream #AlphaArbutin #HilangkanFlek #SkincareMurah #RacunSkincare #GlowingSkin #BebasFlekHitam",
+  "caption_tiktok": "Krim flek 39ribuan tapi BPOM dan isinya Retinol + Alpha Arbutin?! 😳 Cek link di bio! #racunskincare #krimflek #darkspotcream #skincaremurah #bpom #retinol #alphaarbutin #glowingskin #skincareviral #fyp #fypdonggalih #rekomendasiproduk"
+}
