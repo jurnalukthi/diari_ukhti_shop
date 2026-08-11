@@ -1,0 +1,12 @@
+{
+  "hook_1": "Muka kusam dan banyak bekas jerawat?",
+  "hook_2": "Kapan lagi dapet dua moisturizer Wardah cuma enam puluhan ribu?",
+  "hook_3": "Rahasia glass skin instan tanpa lengket sama sekali!",
+  "isi_suara": "Cobain paket Lightplus by Wardah ini. Dapet Hydrashot buat hidrasi enam jam dan Glowshot Day dengan SPF 35 yang bikin wajah auto glowing. Kandungannya ada Niacinamide dan Glutathione ampuh pudarin noda hitam. Tekstur water cream gampang meresap, nggak bikin gerah, dan pastinya udah BPOM.",
+  "cta": "Mumpung lagi diskon 58 persen, buruan klik link di bio buat checkout sekarang sebelum kehabisan!",
+  "promo_tag": "DISKON 58% PAKET WARDAH",
+  "marketing_title": "Wajah Glowing",
+  "marketing_subtitle": "Skincare Hemat",
+  "caption_ig": "Pengen punya wajah glowing maksimal tapi dompet tetap aman? ✨ Cobain Paket Lightplus by Wardah! Udah dapet krim siang malam dengan Niacinamide & Glutathione yang ampuh hempas kusam dan noda hitam. Teksturnya ringan banget, no lengket-lengket club! 😍 Yuk, langsung amankan stok kamu mumpung diskon gede. Klik link di bio ya! 🛍️ #WardahLightplus #SkincareLokal #WajahGlowing #MoisturizerWardah #RacunSkincare",
+  "caption_tiktok": "Rahasia glass skin instan cuma 60 ribuan aja! 😱 Cek link di bio sekarang sebelum kehabisan diskonnya! 🏃‍♀️💨 #SkincareViral #RacunSkincare #WardahBeauty #SkincareMurah #Fyp"
+}
