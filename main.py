@@ -282,15 +282,13 @@ ATURAN WAJIB untuk setiap prompt:
 A. REPRODUKSI PRODUK IDENTIK
 Instruksikan untuk mereproduksi kemasan produk sama persis seperti foto referensi. 
 Perhatikan detail kemasan dari deskripsi produk dan foto referensi dengan sangat teliti:
-- Produk terdiri dari dua moisturizer berbentuk tube ramping tegak (sleek vertical squeeze tube): (1) Light+ by Wardah Glowshot Day Moisturizer (sebelah kiri), dan (2) Light+ by Wardah Hydrashot Intensive Moisturizer (sebelah kanan).
-- Desain Tube:
-  * Warna: Warna dasar biru pastel muda soft / biru langit cerah yang solid (light baby blue / soft sky blue).
-  * Bagian Bawah: Memiliki tutup silinder/putar (screw-on cap) berwarna biru yang lebih tua/gelap (medium steel blue) yang senada.
-  * Teks Utama: Di bagian atas badan tube, terdapat logo minimalis bertuliskan "Wardah" warna putih tipis. Di bawahnya, terdapat tulisan vertikal besar "light" yang ditulis dari atas ke bawah, dengan lambang plus "+" kecil yang berkilau di pojok kanan bawah tulisan "light".
-  * Teks Detail: 
-    - Untuk Glowshot Day Moisturizer (kiri): Memiliki teks kecil berwarna putih di sisi kiri bawah "NANO NIACINAMIDE COMPLEX* SPF 35 PA+++", dan di bagian bawah bertuliskan "Glowshot Day Moisturizer".
-    - Untuk Hydrashot Intensive Moisturizer (kanan): Memiliki teks kecil berwarna putih di sisi kiri bawah "NANO NIACINAMIDE COMPLEX* HYALURONIC POLYGLUTAMIC", dan di bagian bawah bertuliskan "Hydrashot Intensive Moisturizer".
-- Bentuk kemasan berupa tube panjang ramping biru muda, warna tutup biru tua, tulisan vertikal "light+" putih yang tebal, logo Wardah, dan proporsi detail harus direproduksi sama persis dan identik dengan foto asli. Gaya visual minimalis klinis yang bersih.
+- Produk terdiri dari sebuah botol pompa kosmetik (pump bottle) berbentuk bulat lonjong (oval) yang melengkung halus di bagian atas dan bawah.
+- Desain Botol:
+  * Warna: Badan botol berwarna merah muda pastel lembut / peach soft yang solid, dengan pompa dispenser berwarna hitam pekat di bagian atas.
+  * Teks Utama: Di bagian atas badan botol, terdapat tulisan "ON: THE BODY" dan di bawahnya "THE NATURAL".
+  * Teks Tengah: Di bagian tengah terdapat tulisan besar "NOURISHING COCONUT", dengan tulisan aksara Korea (Hangeul) di bawahnya. Terdapat pula logo lingkaran dengan teks kecil "+ SHEA BUTTER".
+  * Ilustrasi: Menampilkan gambar realistis kelapa segar utuh dan buah kelapa terbelah dua yang memperlihatkan daging putihnya. Di bagian bawah botol terdapat aksen pusaran krim putih lembut (soft white cream swirl) yang menyatu dengan botol.
+- Bentuk botol pompa bulat lonjong soft pink, pompa hitam, teks "ON: THE BODY THE NATURAL NOURISHING COCONUT", gambar kelapa, dan proporsi detail harus direproduksi sama persis dan identik dengan foto asli. Gaya visual minimalis natural yang bersih.
 
 B. MODEL MANUSIA
 - Khusus untuk V1 (Prompt Pertama): Tampilkan wajah/setengah badan wanita Muslimah Indonesia (hijab/muslimah) berwajah natural dan bersih (tidak perlu terlalu glowing atau putih berlebihan, cukup natural alami) sedang tersenyum lembut menghadap kamera. Posisikan wanita tersebut di samping produk secara estetis di ZONA ATAS.
@@ -300,9 +298,9 @@ C. LAYOUT POSTER — 3 ZONA VERTIKAL
 Bagi poster menjadi 3 zona vertikal yang proporsional:
 - ZONA ATAS (±35% tinggi): Visual utama (V1: Model wanita hijab Indonesia tersenyum natural + produk; V2-V5: Produk saja dengan variasi angle kamera seperti front-view, angled 3-4, top-down flat lay, close-up detail, low-angle look).
 - ZONA TENGAH (±40% tinggi): 3 LAYER INFORMASI PRODUK — teks marketing yang SAMA/KONSISTEN di semua versi untuk menjaga kontinuitas video:
-  * Layer 1: Nama produk (jelas, ukuran sedang-besar, warna kontras)
-  * Layer 2: Kandungan utama atau highlight promo (misal: "Niacinamide • Glutathione • Hyaluronic Acid")
-  * Layer 3: Benefit utama atau legalitas (misal: "✓ BPOM Approved • Pelembab Wajah Pagi & Malam")
+  * Layer 1: Nama produk (jelas, ukuran sedang-besar, warna kontras) (contoh: "ON: THE BODY Body Lotion")
+  * Layer 2: Kandungan utama atau highlight promo (contoh: "Coconut Oil • Shea Butter • Ceramide NP")
+  * Layer 3: Benefit utama atau legalitas (contoh: "✓ BPOM Approved • Kelembapan Intensif")
 - ZONA BAWAH: Background strip hitam transparan (~60% opacity) melayang horizontal penuh (floating strip), diposisikan agak naik sekitar 100px dari ujung bawah poster (sehingga background poster dan visual di bawahnya tetap berlanjut sampai paling bawah), dengan dua baris teks CTA warna PUTIH perfectly centered secara vertikal dan horizontal dengan padding atas dan bawah seimbang (tidak ada yang terlalu dekat dengan tepi atas/bawah strip hitam):
   * Baris 1: "{etalase_label}" — font medium regular, warna putih, ukuran sedang
   * Baris 2: "Cek link di bio!" — font bold, warna putih, ukuran sama persis atau hanya sedikit lebih besar dari baris 1, seimbang dan proporsional

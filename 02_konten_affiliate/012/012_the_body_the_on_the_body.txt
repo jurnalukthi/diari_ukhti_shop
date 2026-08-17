@@ -1,0 +1,12 @@
+{
+  "hook_1": "Kulit kering dan kasar bikin insecure?",
+  "hook_2": "Gila, lotion sultan diskon 82 persen!",
+  "hook_3": "Wangi kelapa mewah bikin kulit auto kenyal!",
+  "isi_suara": "On The Body Natural Coconut Lotion. Ada Niacinamide, Hyaluronic Acid, sama Ceramide. Ampuh banget lembabin kulit kering, bikin halus, dan wangi seharian. Udah BPOM dan Halal. Mumpung lagi turun harga dari lima ratus ribu jadi seratus ribuan aja!",
+  "cta": "Stok terbatas banget, buruan klik link di bio buat checkout sekarang!",
+  "promo_tag": "DISKON 82 PERSEN",
+  "marketing_title": "Kulit Kenyal",
+  "marketing_subtitle": "Lotion Diskon",
+  "caption_ig": "Kulit kering dan kasar? Waktunya hidrasi ekstra pakai On The Body Natural Coconut Lotion! 🥥✨ Diperkaya Niacinamide, Ceramide, dan Shea Butter yang bikin kulit auto lembab, halus, dan wangi seharian. Aman untuk kulit sensitif, udah BPOM & Halal. Mumpung diskon 82%, yuk buruan amankan stokmu! Klik link di bio untuk order ya 🛒👇\n#LotionKulitKering #OnTheBodyLotion #BodyCareRoutine #LotionWangi #DiskonSkincare",
+  "caption_tiktok": "Lotion sultan turun harga drastis! Bikin kulit lembab dan wangi kelapa seharian. Stok tipis, cek link di bio sekarang! 🥥🔥 #fyp #racunbelanja #skincarehacks #bodycare #lotionviral"
+}
