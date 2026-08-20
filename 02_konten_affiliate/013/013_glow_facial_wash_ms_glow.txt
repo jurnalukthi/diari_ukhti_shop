@@ -1,0 +1,12 @@
+{
+  "hook_1": "Muka kusam dan komedo membandel? Cobain ini deh!",
+  "hook_2": "Cuma 60 ribuan dapet facial wash yang bikin glowing? Serius!",
+  "hook_3": "Rahasia cuci muka yang ada alpha arbutin dan kojic acid-nya!",
+  "isi_suara": "MS Glow Facial Wash ini bukan sabun muka biasa. Kandungannya alpha arbutin sama kojic acid yang bantu cerahin dan ratain warna kulit. Plus aloe vera yang bikin lembap, nggak bikin kering. Udah BPOM, halal, cocok buat semua jenis kulit termasuk yang berminyak dan berjerawat.",
+  "cta": "Langsung klik link di bio, keburu kehabisan!",
+  "promo_tag": "BPOM & HALAL 60RIBUAN",
+  "marketing_title": "Muka Cerah",
+  "marketing_subtitle": "Sabun Glowing",
+  "caption_ig": "✨ Facial wash yang beneran kerja! MS Glow Facial Wash dengan kandungan Alpha Arbutin & Kojic Acid bantu cerahin wajah dan angkat sel kulit mati 🫧\n\n🔹 Cocok semua jenis kulit\n🔹 Sudah BPOM & Halal\n🔹 Minimalisir komedo & pori-pori\n🔹 Cuma Rp60.000 aja!\n\nMau kulit bersih & cerah? Klik link di bio sekarang! 👆\n\n#MSGlow #FacialWash #SkincareIndonesia #KulitGlowing #RacunSkincare #AlphaArbutin #KojicAcid #SabunMukaViral #KulitCerah #ShopeeAffiliate",
+  "caption_tiktok": "Sabun muka 60rb tapi ada alpha arbutin + kojic acid? 😳 Pantesan pada glowing! Klik link di bio! 🔗 #racunskincare #skincaremurah #msglowfacialwash #kulitglowing #fyp #skincareviral #shopeeaffiliate #facialwash #tiktokmademebuyit"
+}

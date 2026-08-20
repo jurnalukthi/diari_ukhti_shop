@@ -79,7 +79,7 @@ Berikut adalah detail, spesifikasi, dan deskripsi produk dari Shopee:
 
 {detail_produk}
 
-Buat skrip video pendek sangat singkat (total durasi 20-25 detik, isi_suara + cta maksimal 55-60 kata) untuk konten promosi video pendek.
+Buat skrip video pendek sangat singkat (total durasi 15-20 detik, isi_suara + cta maksimal 40-45 kata) untuk konten promosi video pendek.
 PENTING: Jangan sebut nama platform spesifik (seperti TikTok, Instagram, Reels, YouTube, dll) di dalam skrip.
 Gaya bahasa: Santai, persuasif, bahasa gaul Indonesia (racun belanja).
 Struktur:
@@ -87,8 +87,8 @@ Struktur:
   * hook_1: Sudut pandang masalah utama kulit/kebutuhan (contoh: kulit kusam, jerawat, kering).
   * hook_2: Sudut pandang harga/promo (contoh: harga murah, diskon besar, paket lengkap hemat).
   * hook_3: Sudut pandang review/rekomendasi/spesifik keunikan produk (contoh: no whitecast, kandungan viral SymWhite, rahasia glowing cepat).
-- Solusi & Benefit (detik 4-20): Bahas keunggulan spesifik produk berdasarkan detail di atas (kandungan, manfaat, aman bumil/busui, BPOM, harga coret/diskon jika ada).
-- CTA (detik 21-25): Arahkan klik link di bio.
+- Solusi & Benefit (detik 4-15): Bahas keunggulan spesifik produk berdasarkan detail di atas (kandungan, manfaat, aman bumil/busui, BPOM, harga coret/diskon jika ada).
+- CTA (detik 16-20): Arahkan klik link di bio.
 
 Selain skrip, buat juga caption promosi media sosial:
 - caption_ig: Caption estetis/informatif dengan emoji, jelaskan keunggulan utama, ajakan klik link di bio, dan minimal 5 hashtag relevan.
@@ -115,7 +115,7 @@ Berikan output dalam format JSON terstruktur persis seperti ini agar mudah dipro
 Kembalikan HANYA format JSON di atas, tanpa teks penjelasan tambahan, tanpa markdown block ```json."""
 
     payload = {
-        "model": "plan-heavy",
+        "model": "plan-light",
         "messages": [
             {"role": "user", "content": prompt}
         ],
@@ -257,6 +257,10 @@ def generate_poster_prompts(detail_produk, jenis, merk, indeks):
     images = sorted([f for f in os.listdir(aset_dir) if f.endswith(('.webp', '.jpg', '.png'))]) if os.path.exists(aset_dir) else []
     ref_photo = f"{aset_dir}/{images[0]}" if images else f"{aset_dir}/image1.webp"
 
+    num_downloaded = len(images)
+    # Jumlah slot regenerate (max 4 karena total 5 poster, V1 selalu model)
+    num_regen = min(num_downloaded, 4)
+
     try:
         indeks_num = int(indeks)
         etalase_label = f"No. Etalase: {indeks_num:03d}"
@@ -269,48 +273,55 @@ def generate_poster_prompts(detail_produk, jenis, merk, indeks):
         "Content-Type": "application/json"
     }
 
+    # Bangun instruksi dinamis
+    slot_instructions = []
+    slot_instructions.append("- V1: Prompt DALL-E 3 poster baru dengan model wanita Muslimah Indonesia (hijab/muslimah) berwajah natural dan bersih tersenyum lembut di samping produk.")
+
+    for i in range(num_regen):
+        v_idx = i + 2
+        img_name = images[i]
+        slot_instructions.append(
+            f"- V{v_idx}: Prompt untuk REGENERATE/CLONE persis foto referensi {img_name} dalam format poster 9:16 (1080x1920px). "
+            f"Instruksikan untuk meniru komposisi, background, dan prop foto {img_name} persis sama, TETAPI HILANGKAN semua logo, nama merek, dan teks dari botol/kemasan produk (produk polos/unbranded). "
+            f"Wajib sertakan strip etalase di bagian bawah: '{etalase_label}' dan 'Cek link di bio!'."
+        )
+
+    remaining_slots = 5 - (1 + num_regen)
+    for j in range(remaining_slots):
+        v_idx = 1 + num_regen + j + 1
+        angles = ["angled 3/4 view on aesthetic podium", "top-down flat lay view with organic ingredients", "close-up macro beauty shot with textures", "low-angle heroic look"]
+        angle_chosen = angles[j % len(angles)]
+        slot_instructions.append(
+            f"- V{v_idx}: Prompt DALL-E 3 variasi AI generate baru tanpa model manusia ({angle_chosen}) yang selaras dengan tema, unbranded/clean, dengan strip etalase di bawah."
+        )
+
+    slots_text = "\n".join(slot_instructions)
+
     prompt = f"""Saya menjual produk {jenis} {merk} via Shopee Affiliate.
 Berikut detail produk:
 
 {detail_produk}
 
-Tentukan 1 tema/gaya visual yang PALING COCOK untuk produk ini (misal: "Fresh/Bright", "Luxury/Premium", atau "Natural/Organic"). 
-Buat 5 prompt DALL-E 3 dalam bahasa Inggris untuk poster promosi Instagram Stories (9:16, 1080x1920px) menggunakan 1 tema/gaya visual terpilih tersebut agar kelima poster konsisten dan selaras saat digabung menjadi video.
+Ada {num_downloaded} foto aset yang di-download di folder aset: {', '.join(images) if images else 'image1.webp'}.
+Buat 5 prompt DALL-E 3 dalam bahasa Inggris untuk poster promosi Instagram Stories (9:16, 1080x1920px) sesuai pembagian berikut:
 
-ATURAN WAJIB untuk setiap prompt:
+{slots_text}
 
-A. REPRODUKSI PRODUK IDENTIK
-Instruksikan untuk mereproduksi kemasan produk sama persis seperti foto referensi. 
-Perhatikan detail kemasan dari deskripsi produk dan foto referensi dengan sangat teliti:
-- Produk terdiri dari sebuah botol pompa kosmetik (pump bottle) berbentuk bulat lonjong (oval) yang melengkung halus di bagian atas dan bawah.
-- Desain Botol:
-  * Warna: Badan botol berwarna merah muda pastel lembut / peach soft yang solid, dengan pompa dispenser berwarna hitam pekat di bagian atas.
-  * Teks Utama: Di bagian atas badan botol, terdapat tulisan "ON: THE BODY" dan di bawahnya "THE NATURAL".
-  * Teks Tengah: Di bagian tengah terdapat tulisan besar "NOURISHING COCONUT", dengan tulisan aksara Korea (Hangeul) di bawahnya. Terdapat pula logo lingkaran dengan teks kecil "+ SHEA BUTTER".
-  * Ilustrasi: Menampilkan gambar realistis kelapa segar utuh dan buah kelapa terbelah dua yang memperlihatkan daging putihnya. Di bagian bawah botol terdapat aksen pusaran krim putih lembut (soft white cream swirl) yang menyatu dengan botol.
-- Bentuk botol pompa bulat lonjong soft pink, pompa hitam, teks "ON: THE BODY THE NATURAL NOURISHING COCONUT", gambar kelapa, dan proporsi detail harus direproduksi sama persis dan identik dengan foto asli. Gaya visual minimalis natural yang bersih.
-
-B. MODEL MANUSIA
-- Khusus untuk V1 (Prompt Pertama): Tampilkan wajah/setengah badan wanita Muslimah Indonesia (hijab/muslimah) berwajah natural dan bersih (tidak perlu terlalu glowing atau putih berlebihan, cukup natural alami) sedang tersenyum lembut menghadap kamera. Posisikan wanita tersebut di samping produk secara estetis di ZONA ATAS.
-- Untuk V2 sampai V5: Cukup tampilkan produk saja tanpa model manusia, melainkan dengan variasi angle dan komposisi produk yang berbeda-beda.
-
-C. LAYOUT POSTER — 3 ZONA VERTIKAL
-Bagi poster menjadi 3 zona vertikal yang proporsional:
-- ZONA ATAS (±35% tinggi): Visual utama (V1: Model wanita hijab Indonesia tersenyum natural + produk; V2-V5: Produk saja dengan variasi angle kamera seperti front-view, angled 3-4, top-down flat lay, close-up detail, low-angle look).
-- ZONA TENGAH (±40% tinggi): 3 LAYER INFORMASI PRODUK — teks marketing yang SAMA/KONSISTEN di semua versi untuk menjaga kontinuitas video:
-  * Layer 1: Nama produk (jelas, ukuran sedang-besar, warna kontras) (contoh: "ON: THE BODY Body Lotion")
-  * Layer 2: Kandungan utama atau highlight promo (contoh: "Coconut Oil • Shea Butter • Ceramide NP")
-  * Layer 3: Benefit utama atau legalitas (contoh: "✓ BPOM Approved • Kelembapan Intensif")
-- ZONA BAWAH: Background strip hitam transparan (~60% opacity) melayang horizontal penuh (floating strip), diposisikan agak naik sekitar 100px dari ujung bawah poster (sehingga background poster dan visual di bawahnya tetap berlanjut sampai paling bawah), dengan dua baris teks CTA warna PUTIH perfectly centered secara vertikal dan horizontal dengan padding atas dan bawah seimbang (tidak ada yang terlalu dekat dengan tepi atas/bawah strip hitam):
-  * Baris 1: "{etalase_label}" — font medium regular, warna putih, ukuran sedang
-  * Baris 2: "Cek link di bio!" — font bold, warna putih, ukuran sama persis atau hanya sedikit lebih besar dari baris 1, seimbang dan proporsional
+ATURAN WAJIB TIAP PROMPT:
+1. Format 9:16 vertical poster (1080x1920px).
+2. Tiga zona vertikal:
+   - ZONA ATAS (35%): Visual utama sesuai pembagian slot di atas.
+   - ZONA TENGAH (40%): 3 layer typography konsisten (Nama produk, Kandungan/Highlight, Legalitas BPOM/Benefit).
+   - ZONA BAWAH: Strip hitam transparan (~60% opacity) 100px dari bawah dengan teks putih centered:
+     * Baris 1: "{etalase_label}"
+     * Baris 2: "Cek link di bio!"
 
 Format output JSON persis seperti ini:
 {{"v1": "prompt lengkap v1...", "v2": "prompt lengkap v2...", "v3": "prompt lengkap v3...", "v4": "prompt lengkap v4...", "v5": "prompt lengkap v5..."}}
 Kembalikan HANYA JSON di atas, tanpa teks penjelasan, tanpa markdown block ```json."""
 
     payload = {
-        "model": "plan-heavy",
+        "model": "plan-light",
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.8,
         "stream": False
@@ -333,23 +344,16 @@ Kembalikan HANYA JSON di atas, tanpa teks penjelasan, tanpa markdown block ```js
     os.makedirs(output_dir, exist_ok=True)
 
     nama_produk = f"{jenis} {merk}".replace("_", " ").title()
+    ref_list = [f"Reference photo {i+1}: {aset_dir}/{img}" for i, img in enumerate(images)] if images else [f"Reference photo: {ref_photo}"]
     lines = [
         f"=== POSTER PROMPTS: {nama_produk} ===",
-        f"Reference photo: {ref_photo}",
-        "Upload this photo to ChatGPT before pasting each prompt.",
+        "\n".join(ref_list),
+        "Upload reference photos to ChatGPT before pasting each prompt.",
         "",
     ]
 
-    style_labels = {
-        "v1": "COMPOSITION 1 (FRONT-VIEW)",
-        "v2": "COMPOSITION 2 (ANGLED/3-4)",
-        "v3": "COMPOSITION 3 (TOP-DOWN)",
-        "v4": "COMPOSITION 4 (CLOSE-UP)",
-        "v5": "COMPOSITION 5 (LOW-ANGLE)",
-    }
-
     for key in ["v1", "v2", "v3", "v4", "v5"]:
-        lines.append(f"=== {key.upper()} - {style_labels[key]} ===")
+        lines.append(f"=== {key.upper()} ===")
         lines.append(prompts.get(key, ""))
         lines.append("")
 
@@ -454,13 +458,7 @@ def main():
     marketing_subtitle = skrip.get("marketing_subtitle", "")
     make_video(indeks, jenis, merk, audio_path, duration, promo_tag, marketing_title, marketing_subtitle)
 
-    # 4. Generate Poster Prompts DALL-E 3
-    try:
-        generate_poster_prompts(detail_produk, jenis, merk, indeks)
-    except Exception as e:
-        print(f"Gagal membuat poster prompts: {e}")
-
-    # 5. Update Halaman Web & Push ke GitHub
+    # 4. Update Halaman Web & Push ke GitHub
     print("Memperbarui halaman web etalase...")
     try:
         # Jalankan script generate_page.py

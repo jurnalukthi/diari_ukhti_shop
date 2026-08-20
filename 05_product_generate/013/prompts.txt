@@ -1,0 +1,42 @@
+=== POSTER PROMPTS: MS GLOW - FACIAL WASH SUPER CLEAN ===
+Reference photo 1: 03_aset_produk/013/image1.webp
+Reference photo 2: 03_aset_produk/013/image2.webp
+Upload reference photos to ChatGPT before pasting prompts.
+
+=== V1 - COMPOSITION 1 (FRONT-VIEW WITH MODEL) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) with a fresh, clean skincare aesthetic. Soft pastel color palette of clean whites, gentle greens, and clear water tones. 3 vertical zones:
+TOP ZONE (top 35%): Young Indonesian Muslim woman wearing a soft pastel hijab, clean natural glowing skin, gentle smile facing camera next to the product bottle. Product is a clean white pump bottle with golden accents, fresh water splashes, and soft green aloe vera leaf accents around it.
+MIDDLE ZONE (40%): Three layers of typography on clean background. Layer 1: "MS GLOW Facial Wash Super Clean". Layer 2: "Aloe Vera • Kojic Acid • Papain". Layer 3: "✓ BPOM Approved • Wajah Bersih Cerah". All text centered, crisp, elegant.
+BOTTOM ZONE: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered white text inside:
+Line 1: "No. Etalase: 013" (medium font)
+Line 2: "Cek link di bio!" (bold font)
+
+=== V2 - COMPOSITION 2 (PRODUCT PODIUM AESTHETIC) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) with a fresh, clean skincare aesthetic. Soft pastel color palette of whites, gentle greens, and clear water. 3 vertical zones:
+TOP ZONE (top 35%): No humans. Clean white facial wash pump bottle standing on a smooth white stone/marble podium with crystal-clear water splashes, fresh sliced aloe vera, and soft natural morning light.
+MIDDLE ZONE (40%): Three layers of typography. Layer 1: "MS GLOW Facial Wash Super Clean". Layer 2: "Aloe Vera • Kojic Acid • Papain". Layer 3: "✓ BPOM Approved • Wajah Bersih Cerah". All text centered and crisp.
+BOTTOM ZONE: Semi-transparent black horizontal floating strip (60% opacity) positioned 100px above bottom edge. Centered white text inside:
+Line 1: "No. Etalase: 013" (medium font)
+Line 2: "Cek link di bio!" (bold font)
+
+=== V3 - COMPOSITION 3 (FLAT LAY / TOP-DOWN) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) with a fresh, clean aesthetic. 3 vertical zones:
+TOP ZONE (top 35%): No humans. Top-down flat lay view of the white pump bottle lying on rippling water with fresh aloe vera gel drops, papain fruit essence hints, and soft organic shadows.
+MIDDLE ZONE (40%): Three layers of typography. Layer 1: "MS GLOW Facial Wash Super Clean". Layer 2: "Aloe Vera • Kojic Acid • Papain". Layer 3: "✓ BPOM Approved • Wajah Bersih Cerah". All text centered and crisp.
+BOTTOM ZONE: Semi-transparent black horizontal floating strip (60% opacity) positioned 100px above bottom edge. Centered white text inside:
+Line 1: "No. Etalase: 013" (medium font)
+Line 2: "Cek link di bio!" (bold font)
+
+=== V4 - REGENERATE IMAGE 1 (EXACT CLONE - UNBRANDED/NO LOGO) ===
+Recreate the exact composition, lighting, perspective, background, and props of reference image 1 (image1.webp) in a vertical 9:16 poster format (1080x1920px).
+CRITICAL INSTRUCTION: Remove all brand names, text, typography, logos, and labels from the product packaging and background. The product bottle must appear completely plain, smooth, and unbranded, retaining only its original shape, color, pump mechanism, and materials.
+BOTTOM ZONE: Add a semi-transparent black horizontal floating strip (60% opacity) spanning the full width, positioned 100px above the bottom edge so background continues underneath. Inside the strip, two lines of perfectly centered white text:
+Line 1: "No. Etalase: 013" (medium font)
+Line 2: "Cek link di bio!" (bold font)
+
+=== V5 - REGENERATE IMAGE 2 (EXACT CLONE - UNBRANDED/NO LOGO) ===
+Recreate the exact composition, lighting, perspective, background, and props of reference image 2 (image2.webp) in a vertical 9:16 poster format (1080x1920px).
+CRITICAL INSTRUCTION: Remove all brand names, text, typography, logos, and labels from the product packaging and background. The product bottle must appear completely plain, smooth, and unbranded, retaining only its original shape, color, pump mechanism, and materials.
+BOTTOM ZONE: Add a semi-transparent black horizontal floating strip (60% opacity) spanning the full width, positioned 100px above the bottom edge so background continues underneath. Inside the strip, two lines of perfectly centered white text:
+Line 1: "No. Etalase: 013" (medium font)
+Line 2: "Cek link di bio!" (bold font)
