@@ -1,0 +1,48 @@
+=== POSTER PROMPTS: WHITELAB - SERUM NIACINAMIDE 10% BRIGHTENING ===
+Reference photo 1: 03_aset_produk/014/image1.webp
+Reference photo 2: 03_aset_produk/014/image2.webp
+Reference photo 3: 03_aset_produk/014/image3.webp
+Upload reference photos to ChatGPT before pasting prompts.
+
+=== V1 - COMPOSITION 1 (FRONT-VIEW WITH MODEL) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) with a clean, glowing, modern skincare aesthetic. Soft pastel color palette of minimalist white, glowing pearl, and crystal serum drops. 3 vertical zones:
+TOP ZONE (top 35%): Beautiful young Indonesian Muslim woman wearing a neat soft pastel/white hijab, glowing flawless glass skin, bright radiant complexion, gentle smile facing camera holding/posing next to the dropper serum bottle. Dropper bottle faithfully reproduces the real Whitelab product with its white dropper cap, clear frosted bottle, and authentic label.
+MIDDLE ZONE (40%): Three layers of typography on clean background. Layer 1: "Whitelab Niacinamide 10% Serum". Layer 2: "Niacinamide 10% • HyaluComplex-10 • Marine Collagen". Layer 3: "✓ BPOM Approved • Wajah Cerah Bebas Kusam". All text centered, crisp, elegant.
+BOTTOM ZONE (bottom 25%): A semi-transparent black horizontal banner (60% opacity) spanning full width near bottom. The ONLY text rendered inside is:
+Line 1: "No. Etalase: 014"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V2 - COMPOSITION 2 (PRODUCT PODIUM AESTHETIC) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) with a high-end, clean skincare aesthetic. Soft minimalist palette of clean whites, subtle soft grey, and transparent liquid drops. 3 vertical zones:
+TOP ZONE (top 35%): No humans. Clean minimalist dropper serum bottle with official Whitelab branding and label standing on an elegant frosted glass / white podium surrounded by clear micro water droplets, glowing light beams, and a pipette dropper releasing a crystal clear serum drop.
+MIDDLE ZONE (40%): Three layers of typography. Layer 1: "Whitelab Niacinamide 10% Serum". Layer 2: "Niacinamide 10% • HyaluComplex-10 • Marine Collagen". Layer 3: "✓ BPOM Approved • Wajah Cerah Bebas Kusam". All text centered and crisp.
+BOTTOM ZONE (bottom 25%): A semi-transparent black horizontal banner (60% opacity) spanning full width near bottom. The ONLY text rendered inside is:
+Line 1: "No. Etalase: 014"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V3 - COMPOSITION 3 (FLAT LAY / TOP-DOWN) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) with a modern skincare lab aesthetic. 3 vertical zones:
+TOP ZONE (top 35%): No humans. Top-down flat lay view of the Whitelab serum dropper bottle with accurate brand label on clean marble surface surrounded by subtle laboratory glass petri dishes, clear hyaluronic acid liquid swirls, collagen beads, and soft natural shadows.
+MIDDLE ZONE (40%): Three layers of typography. Layer 1: "Whitelab Niacinamide 10% Serum". Layer 2: "Niacinamide 10% • HyaluComplex-10 • Marine Collagen". Layer 3: "✓ BPOM Approved • Wajah Cerah Bebas Kusam". All text centered and crisp.
+BOTTOM ZONE (bottom 25%): A semi-transparent black horizontal banner (60% opacity) spanning full width near bottom. The ONLY text rendered inside is:
+Line 1: "No. Etalase: 014"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V4 - REGENERATE IMAGE 1 (CLOSE-UP / WITH BRANDING) ===
+Recreate the composition, lighting, and layout of reference image 1 (image1.webp) in a vertical 9:16 poster format (1080x1920px).
+PRODUCT REPRODUCTION: Keep the exact Whitelab brand name, logo, typography, and label layout on the serum bottle as shown in reference photo 1.
+BOTTOM ZONE (bottom 25%): Add a semi-transparent black horizontal banner (60% opacity) spanning full width near bottom. The ONLY text rendered inside is:
+Line 1: "No. Etalase: 014"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V5 - REGENERATE IMAGE 2 (WITH BRANDING) ===
+Recreate the composition, lighting, and layout of reference image 2 (image2.webp) in a vertical 9:16 poster format (1080x1920px).
+PRODUCT REPRODUCTION: Keep the exact Whitelab brand name, logo, typography, and label layout on the serum bottle as shown in reference photo 2.
+BOTTOM ZONE (bottom 25%): Add a semi-transparent black horizontal banner (60% opacity) spanning full width near bottom. The ONLY text rendered inside is:
+Line 1: "No. Etalase: 014"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.

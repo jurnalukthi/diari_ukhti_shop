@@ -1,0 +1,12 @@
+{
+  "hook_1": "Muka kusam plus bekas jerawat bandel? Wajib cobain ini!",
+  "hook_2": "Diskon gila 53 persen! Kapan lagi dapet serum semurah ini?",
+  "hook_3": "Rahasia glowing cepet pakai Niacinamide highest grade. Wajib punya!",
+  "isi_suara": "Whitelab Serum Niacinamide 10 persen. Tekstur gel ringan, ampuh cerahin muka, ratain warna kulit, dan hempas noda. Plus Hyalucomplex bikin lembap pol. Aman, udah BPOM dan Halal.",
+  "cta": "Buruan klik link di bio mumpung lagi diskon!",
+  "promo_tag": "DISKON 53 PERSEN",
+  "marketing_title": "Glowing Cepat",
+  "marketing_subtitle": "Serum Diskon",
+  "caption_ig": "Punya masalah kulit kusam dan bekas jerawat? 😭 Atasi pakai Whitelab Serum Niacinamide 10%! Kandungan Niacinamide highest grade, Hyalucomplex-10, dan Marine Collagen ampuh banget buat mencerahkan dan melembapkan kulit kamu. ✨ Udah BPOM dan Halal ya! Mumpung lagi diskon 53%, yuk buruan cek! Langsung klik link di bio buat order! 🛒💖 #Whitelab #SerumNiacinamide #SkincareLokal #KulitGlowing #RacunSkincare",
+  "caption_tiktok": "Rahasia glowing tanpa bikin kantong jebol! Diskon 53% woy 😱 Cek link di bio sekarang sebelum kehabisan! 🏃‍♀️💨 #skincareviral #racunbelanja #serumglowing #whitelab #promoskincare"
+}
