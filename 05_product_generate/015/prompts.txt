@@ -1,0 +1,47 @@
+=== POSTER PROMPTS: LUXCRIME - BLUR & COVER TWO WAY CAKE ===
+Reference photo 1: 03_aset_produk/015/image1.webp
+Reference photo 2: 03_aset_produk/015/image2.webp
+Upload reference photos to ChatGPT before pasting prompts.
+
+=== V1 - COMPOSITION 1 (FRONT-VIEW WITH MODEL) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) with an elegant, modern makeup aesthetic. Soft matte pastel green and neutral palette. 3 vertical zones:
+TOP ZONE (top 35%): Beautiful young Indonesian Muslim woman wearing a soft pastel sage green hijab, flawless smooth poreless matte skin complexion, holding the dark green Luxcrime Two Way Cake compact open showing mirror and powder pan, smiling confidently at camera.
+MIDDLE ZONE (40%): Three layers of typography on clean neutral background. Layer 1: "Luxcrime Blur & Cover Two Way Cake". Layer 2: "Oil Control • UV Protection • Vitamin E". Layer 3: "✓ BPOM Approved • Bebas Minyak Tahan 24 Jam". All text centered, crisp, elegant.
+BOTTOM ZONE: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered white text inside:
+Line 1: "No. Etalase: 015" (medium font)
+Line 2: "Cek link di bio!" (bold font)
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V2 - COMPOSITION 2 (PRODUCT PODIUM AESTHETIC) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) with an elegant beauty aesthetic. Soft matte sage green, warm cream, and subtle gold tones. 3 vertical zones:
+TOP ZONE (top 35%): No humans. Deep forest green compact powder case open with fine velvety powder texture visible, resting on a smooth minimalist stone podium surrounded by soft loose powder dust swirls, soft-focus studio lighting, and subtle aesthetic props.
+MIDDLE ZONE (40%): Three layers of typography. Layer 1: "Luxcrime Blur & Cover Two Way Cake". Layer 2: "Oil Control • UV Protection • Vitamin E". Layer 3: "✓ BPOM Approved • Bebas Minyak Tahan 24 Jam". All text centered and crisp.
+BOTTOM ZONE: Semi-transparent black horizontal floating strip (60% opacity) positioned 100px above bottom edge. Centered white text inside:
+Line 1: "No. Etalase: 015" (medium font)
+Line 2: "Cek link di bio!" (bold font)
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V3 - COMPOSITION 3 (FLAT LAY / TOP-DOWN) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) with a modern cosmetics flat lay aesthetic. 3 vertical zones:
+TOP ZONE (top 35%): No humans. Flat lay top-down view of the open dark green compact powder with soft puff applicator, fine powder texture swatch, soft neutral textured linen fabric, and delicate botanical shadows.
+MIDDLE ZONE (40%): Three layers of typography. Layer 1: "Luxcrime Blur & Cover Two Way Cake". Layer 2: "Oil Control • UV Protection • Vitamin E". Layer 3: "✓ BPOM Approved • Bebas Minyak Tahan 24 Jam". All text centered and crisp.
+BOTTOM ZONE: Semi-transparent black horizontal floating strip (60% opacity) positioned 100px above bottom edge. Centered white text inside:
+Line 1: "No. Etalase: 015" (medium font)
+Line 2: "Cek link di bio!" (bold font)
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V4 - REGENERATE IMAGE 1 (EXACT CLONE - WITH BRANDING) ===
+Recreate the exact composition, lighting, perspective, and layout of reference image 1 (image1.webp) in a vertical 9:16 poster format (1080x1920px).
+PRODUCT REPRODUCTION: Keep the exact Luxcrime brand design, compact case shape, packaging details, and velvet matte powder finish as shown in reference photo 1.
+BOTTOM ZONE: Add a semi-transparent black horizontal floating strip (60% opacity) spanning the full width, positioned 100px above the bottom edge so background continues underneath. Inside the strip, two lines of perfectly centered white text:
+Line 1: "No. Etalase: 015" (medium font)
+Line 2: "Cek link di bio!" (bold font)
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V5 - REGENERATE IMAGE 2 (EXACT CLONE - WITH BRANDING) ===
+Recreate the exact composition, lighting, perspective, and layout of reference image 2 (image2.webp) in a vertical 9:16 poster format (1080x1920px).
+PRODUCT REPRODUCTION: Keep the exact Luxcrime packaging, compact cases, shades display, and branding as shown in reference photo 2.
+BOTTOM ZONE: Add a semi-transparent black horizontal floating strip (60% opacity) spanning the full width, positioned 100px above the bottom edge so background continues underneath. Inside the strip, two lines of perfectly centered white text:
+Line 1: "No. Etalase: 015" (medium font)
+Line 2: "Cek link di bio!" (bold font)
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.

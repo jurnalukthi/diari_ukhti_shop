@@ -1,0 +1,12 @@
+{
+  "hook_1": "Muka kilang minyak dan pori gede bikin makeup longsor?",
+  "hook_2": "Diskon 30 persen! Bedak viral Luxcrime sekarang cuma 60 ribuan!",
+  "hook_3": "Udah laku 10 ribu lebih! Ini rahasia makeup matte seharian.",
+  "isi_suara": "Pake Luxcrime Two Way Cake Oil Control. Hasil velvet matte, nutup pori sempurna, tahan 24 jam! Ada UV protection dan Vitamin E. Aman, BPOM approved!",
+  "cta": "Buruan klik link di bio sebelum kehabisan promo!",
+  "promo_tag": "DISKON 30% 60 RIBUAN",
+  "marketing_title": "Bebas Kilap",
+  "marketing_subtitle": "Makeup Tahan Lama",
+  "caption_ig": "Bebas kilap seharian bukan cuma mimpi! ✨ Cobain NEW Luxcrime Blur & Cover Two Way Cake. Bikin wajah mulus tanpa pori, velvet matte finish, plus udah ada UV Protection & Vit E. Cocok banget buat kulit berminyak! Tahan 24 jam lho. 😍 Yuk amankan shade kamu selagi diskon 30%! Cek link di bio sekarang! 🛒💖 #Luxcrime #BedakViral #MakeupMatte #KulitBerminyak #RekomendasiMakeup",
+  "caption_tiktok": "Rahasia makeup anti longsor meski dipakai seharian! Pori auto blur, minyak minggat. Diskon 30% nih, klik link di bio sekarang! 🏃‍♀️💨 #bedakviral #luxcrime #makeupantilongsor #racunbelanja #fyp"
+}
