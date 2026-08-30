@@ -7,6 +7,9 @@ Workflow otomatisasi pembuatan konten promosi video pendek Shopee Affiliate meng
 - Ketergantungan: `requests`, `google-genai`
 - Validasi video: `ffmpeg`, `ffprobe`
 
+### Aturan Pembuatan Prompt Gambar
+- Jika prompt melibatkan model manusia (misal V1), WAJIB selalu menggunakan model wanita Indonesia berhijab (Indonesian Muslim woman wearing a neat hijab).
+
 ## Alur Kerja 3 Tahap
 
 ### Tahap 1 — Download Poster Asli & Generate Prompt (via opencode)

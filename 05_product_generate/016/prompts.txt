@@ -1,0 +1,47 @@
+=== POSTER PROMPTS: SOMETHINC - CALM DOWN! SKINPAIR MOISTURIZER ===
+Reference photo 1: 03_aset_produk/016/image1.webp
+Reference photo 2: 03_aset_produk/016/image2.webp
+Upload reference photos to AI before pasting prompts.
+
+=== V1 - COMPOSITION 1 (FRONT-VIEW WITH MODEL) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) with a calming, fresh, and soothing skincare aesthetic. Soft pastel green, clean white, and botanical mint color palette. 3 vertical zones:
+TOP ZONE (top 35%): Beautiful young Indonesian Muslim woman wearing a neat soft pastel green/white hijab, smooth calm healthy radiant skin without redness, gentle soothing expression facing camera holding the product. PRODUCT REPRODUCTION: Strictly replicate the exact packaging from reference photo 1: a short cylindrical turquoise/mint airless pump jar with a white press-down dispenser top (NOT a tall pump bottle, NOT a dropper). Keep authentic Somethinc Calm Down! branding and label.
+MIDDLE ZONE (40%): Three layers of typography on clean background. Layer 1: "Somethinc Calm Down! Skinpair Moisturizer". Layer 2: "Encapsulated Ceramide • Korean Mugwort • Centella". Layer 3: "✓ BPOM Approved • Redakan Kemerahan & Perkuat Barrier". All text centered, crisp, elegant.
+BOTTOM ZONE (bottom 25%): A semi-transparent black horizontal banner (60% opacity) spanning full width near bottom. The ONLY text rendered inside is:
+Line 1: "No. Etalase: 016"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V2 - COMPOSITION 2 (PRODUCT PODIUM AESTHETIC) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) with a calming clinical skincare aesthetic. Minimalist palette of soft sage green, pristine white, and translucent gel textures. 3 vertical zones:
+TOP ZONE (top 35%): No humans. PRODUCT REPRODUCTION: Strictly replicate exact product from reference photo 1: short cylindrical turquoise airless pump jar with white press-down dispenser top and official Somethinc Calm Down! label. Standing on a minimalist frosted white/green podium surrounded by fresh Korean mugwort leaves, soothing cica botanicals, and crystal-clear hydrating water droplets.
+MIDDLE ZONE (40%): Three layers of typography. Layer 1: "Somethinc Calm Down! Skinpair Moisturizer". Layer 2: "Encapsulated Ceramide • Korean Mugwort • Centella". Layer 3: "✓ BPOM Approved • Redakan Kemerahan & Perkuat Barrier". All text centered and crisp.
+BOTTOM ZONE (bottom 25%): A semi-transparent black horizontal banner (60% opacity) spanning full width near bottom. The ONLY text rendered inside is:
+Line 1: "No. Etalase: 016"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V3 - COMPOSITION 3 (FLAT LAY / TOP-DOWN) ===
+Create a vertical Instagram Stories promotional poster (1080x1920px, 9:16 aspect ratio) with a soothing botanical lab aesthetic. 3 vertical zones:
+TOP ZONE (top 35%): No humans. Top-down flat lay view. PRODUCT REPRODUCTION: Exact product shape from reference photo 1: short cylindrical turquoise jar with white airless press pump mechanism and Somethinc label, resting on clean white marble surface surrounded by fresh green mugwort leaves, cica extracts, delicate cream moisturizer texture swirls, and soft natural shadows.
+MIDDLE ZONE (40%): Three layers of typography. Layer 1: "Somethinc Calm Down! Skinpair Moisturizer". Layer 2: "Encapsulated Ceramide • Korean Mugwort • Centella". Layer 3: "✓ BPOM Approved • Redakan Kemerahan & Perkuat Barrier". All text centered and crisp.
+BOTTOM ZONE (bottom 25%): A semi-transparent black horizontal banner (60% opacity) spanning full width near bottom. The ONLY text rendered inside is:
+Line 1: "No. Etalase: 016"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V4 - REGENERATE IMAGE 1 (EXACT CLONE / CLOSE-UP) ===
+Recreate the composition, lighting, and layout of reference image 1 (image1.webp) in a vertical 9:16 poster format (1080x1920px).
+PRODUCT REPRODUCTION: Strictly duplicate the exact packaging shape, geometry, color, and branding from reference image 1: short cylindrical turquoise airless pump jar with angled white press-down dispenser. Keep all typography, logo, and product markings verbatim.
+BOTTOM ZONE (bottom 25%): Add a semi-transparent black horizontal banner (60% opacity) spanning full width near bottom. The ONLY text rendered inside is:
+Line 1: "No. Etalase: 016"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V5 - REGENERATE IMAGE 2 (EXACT CLONE) ===
+Recreate the composition, lighting, and layout of reference image 2 (image2.webp) in a vertical 9:16 poster format (1080x1920px).
+PRODUCT REPRODUCTION: Strictly duplicate the exact packaging shape, geometry, color, and branding from reference image 2: short cylindrical turquoise airless pump jar with angled white press-down dispenser. Keep all typography, logo, and product markings verbatim.
+BOTTOM ZONE (bottom 25%): Add a semi-transparent black horizontal banner (60% opacity) spanning full width near bottom. The ONLY text rendered inside is:
+Line 1: "No. Etalase: 016"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
