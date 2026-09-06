@@ -1,0 +1,57 @@
+=== POSTER PROMPTS: DRVE - PAKET RETINOL ESSENCE + NIGHT CREAM ===
+Reference photo 1: 03_aset_produk/017/image1.webp
+Reference photo 2: 03_aset_produk/017/image2.webp
+Reference photo 3: 03_aset_produk/017/image3.webp
+Reference photo 4: 03_aset_produk/017/image4.webp
+Upload reference photos to ChatGPT before pasting prompts.
+
+Theme: Soft pastel pink, rose gold metallic, glowing water ripples, clean luxury skincare.
+Note: Medical/acne before-after terms removed to comply with safety guidelines.
+
+=== V1 - REGENERATE IMAGE 1 (FULL SET GLOWING DUO) ===
+Create a vertical Instagram Stories promotional skincare poster (1080x1920px, 9:16 aspect ratio).
+PALETTE & BACKGROUND: Bright, luminous soft pastel pink and white gradient background with gentle pink water ripple surface, crystal reflections, and soft glowing bokeh light.
+TOP ZONE: Red "DRVE" logo box at top-left. Prominent headline in bold magenta and elegant cursive: "GLOWING Tanpa Kusam!", subtitle badge "RETINOL SERUM + BRIGHTENING CREAM", and marketing tagline "Kulit Lembap, Halus, & Tampak Glowing Alami".
+UPPER RIGHT: Close-up beauty portrait of smooth, radiant, glowing Indonesian female glass skin complexion.
+CENTER / MAIN SUBJECT: DRVE Retinol Essence dropper bottle (clear bottle, golden-yellow essence, rose gold metallic dropper collar, white bulb) side-by-side with DRVE Moisturizing Night Cream jar (crisp white jar, shiny rose gold lid, DRVE logo label) standing on gentle pink rippling water. Surrounding benefit badges: "KULIT LEMBAP", "TAMPAK CERAH", "AWET MUDA".
+LOWER BADGES: Gold badge "COCOK UNTUK SEMUA JENIS KULIT" and elegant row of trust badges: BPOM APPROVED, AMAN & LEMBUT, BEST SELLER ribbon.
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 017"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V2 - REGENERATE IMAGE 2 (MOISTURIZING CREAM WATER SPLASH) ===
+Create a vertical Instagram Stories promotional skincare poster (1080x1920px, 9:16 aspect ratio).
+PALETTE & BACKGROUND: Soft baby pink background with dynamic crystal-clear pink water swirls, splash droplets, and floating translucent hydration spheres with subtle gold luminescence.
+HEADLINE: Elegant pink and dark magenta typography at the top: "Mencerahkan Kulit Secara Menyeluruh", subtitle: "Meningkatkan Kelembapan dan Merawat Kulit Cerah".
+CENTER SUBJECT: DRVE Moisturizing Night Cream jar (white body, shiny rose gold metallic cap, official label "DRVE MOISTURIZING NIGHT CREAM 15g 0.7 FL.OZ / F26") resting amidst an energetic splash of hydrating pink water and glowing cosmetic moisture bubbles.
+BOTTOM LEFT: "DRVE OFFICIAL STORE" logo mark.
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 017"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V3 - REGENERATE IMAGE 3 (BENEFITS & CREAM TEXTURE) ===
+Create a vertical Instagram Stories promotional skincare poster (1080x1920px, 9:16 aspect ratio).
+HEADER: "DRVE | OFFICIAL STORE" centered at the top.
+MAIN TITLE: Large bold magenta headline: "RAHASIA KULIT LEMBAP & GLOWING".
+LEFT SIDE: 4 vertical rounded benefit cards with pastel pink icons: "KULIT KUSAM TERATASI", "WARNA KULIT MERATA", "TEXTURE KULIT HALUS", "SKIN BARRIER TERJAGA".
+RIGHT SIDE & CENTER: DRVE Moisturizing Night Cream jar (rose gold lid, white jar with DRVE label) resting on a rich, silky white cosmetic cream swirl texture on pastel pink surface.
+LOWER TEXT: "Bantu mencerahkan, melembapkan & menghaluskan kulit" in elegant pink typography.
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 017"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V4 - REGENERATE IMAGE 4 (OPEN JAR & BRIGHTENING BOOSTER) ===
+Create a vertical Instagram Stories promotional skincare poster (1080x1920px, 9:16 aspect ratio).
+HEADER: "DRVE | OFFICIAL STORE" centered at the top.
+HEADLINE: "Auto Lembap & Auto Cerah / Moisturizing Cream" in dark grey and magenta.
+BANNER: Magenta ribbon badge: "WITH 3X POWERFUL BRIGHTENING BOOSTER AGENT".
+CIRCULAR ICONS: 3 glowing pink circular badges: "CERAH", "GLOWING", "LEMBAP".
+CENTER PRODUCT: Open jar of DRVE Moisturizing Night Cream showing rich whipped white moisturizing cream swirl inside, shiny rose gold rim, and official label "DRVE RADIANCE RENEWING REVITALIZING NIGHT CREAM 15g / F26".
+LOWER LEFT: Rounded badge with radiant glowing skin finish and "+20% Kulit Lebih Glowing". Clean soft pink studio lighting.
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 017"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.

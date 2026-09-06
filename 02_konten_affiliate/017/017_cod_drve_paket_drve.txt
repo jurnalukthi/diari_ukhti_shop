@@ -1,0 +1,12 @@
+{
+  "hook_1": "Wajah kusam dan banyak garis halus? Cobain ini deh!",
+  "hook_2": "Cuma 50 ribuan dapet paket retinol sedewa ini?",
+  "hook_3": "Rahasia glowing cepat tanpa takut kulit kering iritasi!",
+  "isi_suara": "Pake DRVE paket malam 2in1. Retinol essence bantu pudarin kerutan dan flek hitam. Lanjut night cream ceramide buat ngunci lembap semalaman. Kulit auto kenyal, cerah, dan skin barrier aman. BPOM approved lho!",
+  "cta": "Buruan klik link di bio buat dapetin harga diskonnya sekarang!",
+  "promo_tag": "DISKON PAKET 50 RIBUAN",
+  "marketing_title": "Wajah Glowing",
+  "marketing_subtitle": "Skincare Malam",
+  "caption_ig": "Pengen wajah cerah, kenyal, dan bebas garis halus tiap bangun pagi? 🌙✨ Cobain DRVE Paket Skincare Malam 2in1! Perpaduan Retinol Essence buat hempas tanda penuaan & Moisturizing Night Cream buat hidrasi maksimal tanpa bikin kemerahan. Udah BPOM dan aman banget buat pemula! 💖\n\nYuk, rawat kulitmu dari sekarang! Langsung klik link di bio buat order ya! 🛒✨\n\n#SkincareMalam #DRVE #KulitGlowing #AntiAgingSkincare #SkinBarrier #RacunSkincare",
+  "caption_tiktok": "Rahasia kulit kenyal dan cerah pas bangun tidur cuma pake 2 step ini! 🤫 Mumpung lagi diskon 50 ribuan, buruan klik link di bio sebelum kehabisan! 🏃‍♀️💨 \n\n#SkincareHacks #RacunBelanja #SkincareRutin #Fyp #SkincareViral #RetinolPemula"
+}
