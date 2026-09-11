@@ -1,0 +1,12 @@
+{
+  "hook_1": "Muka mulai kendur banyak garis halus? Jangan panik!",
+  "hook_2": "Perawatan ala klinik cuma seratus ribuan? Wajib punya!",
+  "hook_3": "Rahasia kulit kencang tanpa botox! Ini dia kuncinya.",
+  "isi_suara": "Wardah Collagen Moisturizer. Pake vegan kolagen plus dua persen Argireline Peptide. Bikin kulit kenyal, kencang, dan hempas kerutan. Tekstur gel super ringan, cepat meresap, aman semua kulit.",
+  "cta": "Buruan klik link di bio buat dapetin harga diskonnya sekarang!",
+  "promo_tag": "EFEK BOTOX 100 RIBUAN",
+  "marketing_title": "Awet Muda",
+  "marketing_subtitle": "Solusi Kerutan",
+  "caption_ig": "Pengen kulit kencang dan kenyal tanpa perawatan klinik yang mahal? 😱 Cobain nih Wardah Plump & Firm Gel Moisturizer! Kandungan Vegan Collagen & 2% Argireline Peptide ngasih efek pengencangan tanpa prosedur invasif! ✨ Teksturnya gel, super ringan, dan aman buat semua jenis kulit. Yuk, kembalikan elastisitas kulitmu sekarang! 💖\n\nKlik link di bio untuk order dan klaim voucher diskonnya! 🛒\n\n#WardahCollagen #SkincareAntiAging #PelembapWardah #KulitKenyal #RacunSkincare #SkincareHalal",
+  "caption_tiktok": "Rahasia awet muda tanpa botox! Pelembap ini bikin kulit auto kencang dan kenyal. Cus klik link di bio sebelum kehabisan vouchernya! 🏃‍♀️💨 #SkincareViral #WardahCollagen #AntiAging #RacunBelanja #Fyp"
+}

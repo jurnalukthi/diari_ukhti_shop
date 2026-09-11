@@ -1,0 +1,48 @@
+=== POSTER PROMPTS: WARDAH - PLUMP & FIRM GEL MOISTURIZER ===
+Reference photo 1: 03_aset_produk/018/image1.webp
+Reference photo 2: 03_aset_produk/018/image2.webp
+Reference photo 3: 03_aset_produk/018/image3.webp
+Reference photo 4: 03_aset_produk/018/image4.webp
+Upload reference photos to ChatGPT before pasting prompts.
+
+Theme: Clean luxury skincare, soft aqua mint silk, warm nude beige, clinical elegance.
+
+=== V1 - REGENERATE IMAGE 1 (SPECIAL PROMO COLLAGEN MOISTURIZER) ===
+Recreate and adapt the exact composition, lighting, and layout of uploaded reference photo 1 (image1.webp) into a vertical 9:16 poster (1080x1920px).
+PRODUCT REPRODUCTION: Strictly duplicate the exact packaging shape, colors, and label from reference photo 1 (Wardah Plump & Firm Gel Moisturizer jar with champagne metallic lid).
+PALETTE & BACKGROUND: Luminous aqua-mint green silk wave drapery with soft glowing bokeh and crystal reflections as in reference photo 1.
+ELEMENTS & TEXT: Top header "Wardah", gold banner "SPECIAL PROMO", "Collagen Moisturizer", right-side rounded promo badges.
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 018"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V2 - REGENERATE IMAGE 2 (5 STARS REVIEW & JAR REFLECTION) ===
+Recreate and adapt the exact composition, layout, and lighting of uploaded reference photo 2 (image2.webp) into a vertical 9:16 poster (1080x1920px).
+PRODUCT REPRODUCTION: Strictly duplicate the tilted jar, label, and glossy mirror reflection on the floor as shown in reference photo 2.
+BACKGROUND & AESTHETIC: Warm nude beige and soft ivory gradient luxury studio lighting identical to reference photo 2.
+ELEMENTS & TEXT: Centered header "Wardah | OFFICIAL", "THE 1ST RECOMBINANT COLLAGEN GEL MOISTURIZER", 5 stars review headline, and 2 testimonial cards on the right.
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 018"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V3 - REGENERATE IMAGE 3 (OPEN JAR TEXTURE & BOTOCARE) ===
+Recreate and adapt the exact composition, lighting, and layout of uploaded reference photo 3 (image3.webp) into a vertical 9:16 poster (1080x1920px).
+PRODUCT REPRODUCTION: Strictly duplicate the open jar of Wardah Plump & Firm Gel Moisturizer showing the glossy swirl of white gel cream texture inside, matching reference photo 3.
+PALETTE & BACKGROUND: Warm mocha and taupe backdrop with soft cosmetic lighting as in reference photo 3.
+ELEMENTS & TEXT: "Wardah | OFFICIAL", headline "COLLAGEN BOOSTING + BOTOCARE IN A JAR", pill badge "RECOMBINANT COLLAGEN + 2% ARGIRELINE PEPTIDE", and benefit description.
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 018"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V4 - REGENERATE IMAGE 4 (BEFORE & AFTER COMPARISON) ===
+Recreate and adapt the exact split before-and-after composition of uploaded reference photo 4 (image4.webp) into a vertical 9:16 poster (1080x1920px).
+MODEL & REPRODUCTION: Strictly duplicate the subject from reference photo 4: Indonesian Muslim woman wearing a neat champagne/beige satin hijab. Top half "BEFORE" showing eye area with fine lines; bottom half "AFTER" showing smooth, plump, lifted skin.
+PALETTE & AESTHETIC: Clean clinical white and champagne tones matching reference photo 4.
+ELEMENTS & TEXT: Top header "Wardah | OFFICIAL STORE", bottom metric card "100% Kulit tampak lebih halus, kencang, dan terawat".
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 018"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
