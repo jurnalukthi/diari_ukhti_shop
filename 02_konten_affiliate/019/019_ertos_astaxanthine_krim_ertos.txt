@@ -1,0 +1,12 @@
+{
+  "hook_1": "Flek hitam susah hilang? Kulit kusam bikin insecure?",
+  "hook_2": "Skincare sultan anti-aging ini lagi ada diskon loh!",
+  "hook_3": "Rahasia awet muda pakai Astaxanthine, antioksidan super kuat!",
+  "isi_suara": "Erto's Astaxanthine Krim jawabannya! Kandungan Astaxanthine, Arbutin, Vit C, dan Vit E ampuh pudarkan flek, cerahkan, dan cegah kerutan. Tekstur ringan, sudah BPOM. Dipakai pagi malam auto glowing!",
+  "cta": "Yuk buruan klik link di bio buat dapetin produknya sekarang!",
+  "promo_tag": "AMPUH ATASI FLEK HITAM",
+  "marketing_title": "Bebas Flek Hitam",
+  "marketing_subtitle": "Rahasia Kulit Glowing",
+  "caption_ig": "Flek hitam membandel bikin insecure? 🥺 Jangan sedih! Erto's Astaxanthine Krim punya antioksidan super kuat dari Astaxanthine, Arbutin, dan Vitamin C yang ampuh hempas flek hitam, cerahkan kulit, sekaligus cegah penuaan dini. ✨ Teksturnya ringan dan pastinya sudah BPOM! Yuk, rawat kulitmu dari sekarang biar makin glowing awet muda. 😍 Langsung cek detailnya dan checkout via link di bio ya! 🛍️ #ErtosAstaxanthine #KrimAntiFlek #SkincareLokal #KrimPencerah #SkincareBPOM #AntiAgingSkincare",
+  "caption_tiktok": "Flek hitam auto minggat pakai krim viral ini! Kandungan dewa Astaxanthine bikin wajah cerah awet muda. Buruan klik link di bio sebelum kehabisan! 🏃‍♀️💨 #Ertos #SkincareViral #FlekHitam #RacunSkincare #SkincareHacks"
+}

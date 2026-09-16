@@ -1,0 +1,80 @@
+=== POSTER PROMPTS: ERTO'S - ASTAXANTHINE BRIGHTENING ESSENCE CREAM ===
+Reference photo 1: 03_aset_produk/019/image1.webp
+Reference photo 2: 03_aset_produk/019/image2.webp
+Reference photo 3: 03_aset_produk/019/image3.webp
+Reference photo 4: 03_aset_produk/019/image4.webp
+Reference photo 5: 03_aset_produk/019/image5.webp
+Upload reference photos to ChatGPT before pasting prompts.
+
+Theme: Warm coral peach, glowing antioxidant skincare, clean clinical elegance.
+
+=== V1 - REGENERATE IMAGE 1 WITH MODEL (KULIT CERAH BOUNCY DAN AWET MUDA) ===
+Create a vertical promotional skincare poster (1080x1920px, 9:16 aspect ratio) adapting the composition, color scheme, and typography from reference photo 1 (image1.webp).
+PALETTE & BACKGROUND: Luminous warm coral, soft peach, and warm ivory gradient studio background with elegant cosmetic lighting and gentle warm bokeh.
+MODEL ADDITION: Beside the product, feature a beautiful young Indonesian Muslim woman wearing a neat neutral beige/peach hijab. Smooth, plump, radiant glass skin without dark spots or blemishes, smiling gently and holding or presenting the product.
+PRODUCT REPRODUCTION: Strictly duplicate the exact packaging shape, colors, and labeling from reference photo 1: ERTO'S Astaxanthine Brightening Essence Cream bottle/container with crisp official Erto's typography.
+TEXT & BRANDING:
+- Top left: "ERTO'S" logo with "OFFICIAL STORE" badge.
+- Main headline in bold modern typography: "KULIT CERAH BOUNCY DAN AWET MUDA".
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 019"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V2 - REGENERATE IMAGE 2 (ANTIOXIDANT PROTECTION BENEFIT) ===
+Recreate and adapt the exact composition, layout, and lighting of uploaded reference photo 2 (image2.webp) into a vertical 9:16 poster (1080x1920px). No human models.
+PALETTE & BACKGROUND: Soft warm peach, blush nude, and neutral cream backdrop with clean luxury studio illumination.
+PRODUCT REPRODUCTION: Strictly duplicate the ERTO'S Astaxanthine bottle packaging, logo, and label identical to reference photo 2.
+ELEMENTS & TEXT:
+- Header: "ERTO'S" official logo.
+- Catchy headline: "Bukan Hanya Cerah, Tapi Juga..."
+- Benefit text box: "Antioksidan yang menangkal radikal bebas penyebab kerusakan sel kulit".
+- Subtle cosmetic splash and antioxidant glow effects surrounding the product.
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 019"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V3 - REGENERATE IMAGE 3 (5 STARS REVIEW & MILIA SOLUTION) ===
+Recreate and adapt the exact composition, layout, and testimonial style of uploaded reference photo 3 (image3.webp) into a vertical 9:16 poster (1080x1920px). No human models.
+PALETTE & BACKGROUND: Warm beige and clean white studio backdrop matching reference photo 3.
+PRODUCT REPRODUCTION: Strictly replicate ERTO'S Astaxanthine container and formula badges ("FORMULATED IN KOREA", "Astaxanthin, Arbutin, Vit C, Vit E") as shown in reference photo 3.
+ELEMENTS & TEXT:
+- Top rating: 5 glowing golden stars.
+- Testimonial headline & quote: "Astaxanthine Brightening Essence Cream ini ringan bangett jadi mudah menyerap. Miliaku yang awalnya parah banget juga sekarang udah mulai mengecil berkat ini."
+- Clean, highly readable quote card formatting with crisp contrast.
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 019"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V4 - REGENERATE IMAGE 4 (ACTIVE FORMULA & TEXTURE REPAIR) ===
+Recreate and adapt the exact layout, ingredients callout, and composition of uploaded reference photo 4 (image4.webp) into a vertical 9:16 poster (1080x1920px). No human models.
+PALETTE & BACKGROUND: Clean clinical peach-ivory studio lighting matching reference photo 4.
+PRODUCT REPRODUCTION: Strictly duplicate the ERTO'S Astaxanthine bottle with vertical typography and label details from reference photo 4.
+ELEMENTS & TEXT:
+- Brand logo: "ERTO'S".
+- Ingredient callout: "Dengan Astaxanthin, Arbutin, Vit C, Vit E."
+- Action headline: "Secara aktif mencerahkan & memperbaiki tekstur kulit".
+- Trust badges: "BADAN POM" and "HALAL".
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 019"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V5 - REGENERATE IMAGE 5 (SKIN CONCERNS CHECKLIST) ===
+Recreate and adapt the exact composition, checklist layout, and branding of uploaded reference photo 5 (image5.webp) into a vertical 9:16 poster (1080x1920px). No human models.
+PALETTE & BACKGROUND: Minimalist clean white and soft warm coral aesthetic matching reference photo 5.
+PRODUCT REPRODUCTION: Centered/prominent ERTO'S Astaxanthine bottle with accurate labeling and cap geometry identical to reference photo 5.
+ELEMENTS & TEXT:
+- Top left: "ERTO'S OFFICIAL STORE" logo badge.
+- Main title: "ASTAXANTHINE".
+- 4 problem-solution bullet points / checklist cards:
+  • "FLEK HITAM"
+  • "KULIT KUSAM"
+  • "PORI-PORI BESAR"
+  • "ANTI PENUAAN"
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 019"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
