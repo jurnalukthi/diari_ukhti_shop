@@ -1,0 +1,12 @@
+{
+  "hook_1": "Ketiak dan selangkangan gelap bikin insecure?",
+  "hook_2": "Krim pencerah viral diskon 42 persen nih!",
+  "hook_3": "Ribuan orang buktiin ketiak cerah tanpa lengket!",
+  "isi_suara": "Oles Moicare Cream tiap hari! Ada Niacinamide dan Collagen bikin lipatan gelap jadi cerah, halus, plus wangi seharian. Tekstur lembut, cepat meresap, dan udah BPOM.",
+  "cta": "Jangan sampai kehabisan, klik link di bio buat beli sekarang!",
+  "promo_tag": "DISKON 42 PERSEN",
+  "marketing_title": "Ketiak Cerah",
+  "marketing_subtitle": "Solusi Lipatan",
+  "caption_ig": "Ketiak dan area lipatan gelap bikin gak pede? Cobain Moicare Underarm Brightening Cream! Kandungan Niacinamide dan Collagen ampuh mencerahkan, melembapkan, dan usir bau badan. Tekstur ringan, gak lengket, dan pastinya aman sudah BPOM. Yuk rawat kulitmu sekarang, klik link di bio ya! #Moicare #PencerahKetiak #KetiakCerah #SkincareLokal #PerawatanTubuh",
+  "caption_tiktok": "Lipatan gelap auto cerah pakai krim viral ini! Wangi, gak lengket, udah BPOM. Buruan klik link di bio sebelum kehabisan! #PencerahKetiak #KetiakCerah #SkincareViral #Moicare #Fyp"
+}

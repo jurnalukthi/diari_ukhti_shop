@@ -1,0 +1,91 @@
+=== POSTER PROMPTS: MOICARE - UNDERARM BRIGHTENING CREAM ===
+Reference photo 1: 03_aset_produk/020/image1.webp
+Reference photo 2: 03_aset_produk/020/image2.webp
+Reference photo 3: 03_aset_produk/020/image3.webp
+Reference photo 4: 03_aset_produk/020/image4.webp
+Reference photo 5: 03_aset_produk/020/image5.webp
+Upload reference photos to ChatGPT before pasting prompts.
+
+Theme: Soft coral peach, clean bright cosmetic aesthetic, glowing flawless skin, clinical laboratory purity.
+
+=== V1 - REGENERATE IMAGE 1 WITH MODEL (CREAM PENCERAH KETIAK DAN LIPATAN) ===
+Create a vertical promotional skincare poster (1080x1920px, 9:16 aspect ratio) adapting the composition, color scheme, and typography from reference photo 1 (image1.webp).
+PALETTE & BACKGROUND: Luminous soft coral peach, delicate blush pink, and ivory white gradient studio backdrop with gentle cosmetic lighting.
+MODEL ADDITION: Beside the product, feature a beautiful, smiling young Indonesian Muslim woman wearing a neat pastel peach/neutral beige hijab. Smooth, bright, radiant glowing skin, posing gracefully while holding or presenting the product jar.
+PRODUCT REPRODUCTION: Strictly duplicate the exact packaging shape, colors, and labeling from reference photo 1: Moicare Underarm Brightening Cream white jar with silver band, open floating lid showing rich white cream swirl inside, with official "moicare UNDERARM BRIGHTENING CREAM KRIM LIPATAN Niacinamide + Collagen" branding.
+TEXT & BRANDING:
+- Top: "moicare" logo, "#1 best seller" ribbon badge, and "HALAL INDONESIA" logo badge.
+- Main headline in bold coral-red typography: "CREAM PENCERAH KETIAK DAN LIPATAN".
+- Subheadline: "Mencerahkan, menghaluskan kulit dan mengecilkan pori-pori".
+- Highlight badges: "+ WITH NIACINAMIDE & COLLAGEN", "NO WHITE CAST", "DERMATOLOGY TESTED", "BPOM Registered".
+- Corner pill: "10 GRAM".
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 020"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V2 - REGENERATE IMAGE 2 (TELAH MELAKUKAN UJI LAB & KEAMANAN) ===
+Recreate and adapt the exact composition, lab report layout, and certification style of uploaded reference photo 2 (image2.webp) into a vertical 9:16 poster (1080x1920px). No human models.
+PALETTE & BACKGROUND: Clean clinical laboratory white and soft coral accent backdrop with pristine aesthetic studio lighting.
+ELEMENTS & TEXT:
+- Top: "moicare" logo and bold headline: "Moicare Underarm Brightening Cream TELAH MELAKUKAN UJI LAB".
+- SIG SARASWANTI laboratory certification card with clear table results:
+  • Hidrokuinon: Not detected
+  • Propil Paraben / Metil Paraben / Butil Paraben: Not detected
+  • Merkuri (Hg): Not detected
+- Highlight title: "HYPOALLERGENIC & DERMATOLOGY TESTED".
+- Secondary test card: Skin Irritation & Sensitization Test -> "Non-Irritant Potential and No-Sensitization Potential".
+- Bottom tagline: "moreconfidentwithmoicare".
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 020"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V3 - REGENERATE IMAGE 3 (KEY ACTIVE INGREDIENTS - NIACINAMIDE & COLLAGEN) ===
+Recreate and adapt the exact molecular infographic layout and composition of uploaded reference photo 3 (image3.webp) into a vertical 9:16 poster (1080x1920px). No human models.
+PALETTE & BACKGROUND: Soft peach-pink cosmetic backdrop with gentle floral petals and glowing aesthetic lighting.
+CENTER GRAPHIC: Glowing translucent pink orb with interconnected molecular structure representing collagen and active skin nutrients.
+ELEMENTS & TEXT:
+- Top: "moicare" brand logo.
+- 4 active ingredient callouts with connecting lines:
+  • "NIACINAMIDE": Mencerahkan kulit ketiak, membantu meredakan kemerahan, memperkuat skin barrier ketiak.
+  • "COLLAGEN": Membantu melembutkan kulit, menyamarkan kulit kasar & menjaga tampilan kulit supaya tetap sehat.
+  • "OLIVE OIL": Melembapkan kulit ketiak, memperbaiki skin barrier yang rusak & melembutkan kulit ketiak.
+  • "COCONUT OIL": Memiliki sifat antimikroba ringan, melembapkan kulit ketiak & menjaga kekuatan skin barrier.
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 020"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V4 - REGENERATE IMAGE 4 (BEFORE & AFTER 6 AREA LIPATAN) ===
+Recreate and adapt the exact before-and-after grid layout and clinical comparison style of uploaded reference photo 4 (image4.webp) into a vertical 9:16 poster (1080x1920px). No human models.
+PALETTE & BACKGROUND: Clean minimalist white backdrop with elegant soft coral accents and rounded comparison frames.
+ELEMENTS & TEXT:
+- Top: "moicare" logo and title: "UNDERARM BRIGHTENING CREAM".
+- 6 comparison cards with directional transition arrows displaying real skin brightening transformation:
+  1. "LEHER"
+  2. "SELANGKANGAN"
+  3. "SIKU"
+  4. "LUTUT"
+  5. "KETIAK"
+  6. "MATA KAKI"
+- Small disclaimer at bottom: "*Hasil di setiap individu berbeda, tergantung pada jenis & toleransi pada kulit."
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 020"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
+
+=== V5 - REGENERATE IMAGE 5 (CARA PEMAKAIAN 3 LANGKAH MUDAH) ===
+Recreate and adapt the exact layout, numbering, and product presentation of uploaded reference photo 5 (image5.webp) into a vertical 9:16 poster (1080x1920px). No human models.
+PALETTE & BACKGROUND: Pristine white and soft coral gradient background with smooth clear cosmetic gel swirl beneath the jar.
+PRODUCT REPRODUCTION: Centered Moicare Underarm Brightening Cream closed white jar with silver ring trim and official typography identical to reference photo 5.
+ELEMENTS & TEXT:
+- Top: "moicare" logo and headline: "Cara pemakaian".
+- 3 numbered instructions in stylish coral typography:
+  1. "Bersihkan dan keringkan area lipatan (ketiak, leher, siku, selangkangan, bokong, mata kaki)."
+  2. "Ambil krim sekitar sebiji jagung dan oleskan merata, tunggu meresap."
+  3. "Oleskan rutin 2 kali sehari pada pagi dan malam untuk hasil optimal."
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 020"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
