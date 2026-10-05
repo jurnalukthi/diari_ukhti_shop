@@ -1,0 +1,9 @@
+Referensi Foto: 03_aset_produk/021/carousel1.webp
+
+Prompt Gambar (Slide 1 Carousel):
+A vertical high-quality product photography poster (9:16 aspect ratio). On the left, a luxurious gold cream jar with the label 'ABERA Anti Wrinkle & Luminous Cream', placed on a glossy surface with water splashes and creamy texture, soft gold and beige background. On the right, two vertically stacked photos showing a before-and-after skincare transformation of a beautiful Indonesian Muslim woman wearing a neat hijab. Top photo: she has visible forehead wrinkles and dull skin. Bottom photo: her skin is smooth, glowing, and youthful. The logo 'ABERA' in elegant gold font is at the top left.
+
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 021"
+Line 2: "Cek link di bio!"
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
