@@ -1,0 +1,29 @@
+Reference Image: photo.webp (SATTO Hand & Body Goat Milk Triple Moisturizer)
+
+---
+
+PROMPT V1 - GENERATE NEW IMAGE WITH INDONESIAN MUSLIM MODEL:
+
+A vertical 9:16 high-quality commercial skincare promotional poster (1080x1920px). 
+
+MODEL ADDITION: Beautiful young Indonesian Muslim woman wearing a neat pastel soft-blue hijab. Radiant, glowing, healthy glass skin. Natural makeup. Smiling gracefully while presenting the product beside her or holding it gently.
+
+PRODUCT REPRODUCTION: Exact replica of SATTO Hand & Body Goat Milk TRIPLE Moisturizer 200ml from reference image. Lime green tube top with white bottom, blue brand banner labeled "SATTO", white flip-cap at base, clean professional packaging.
+
+COMPOSITION & BACKGROUND:
+- Modern clean light-blue cosmetic podium/platform
+- Dynamic fresh white goat milk splash around product base
+- Bright blue sky with soft white clouds framed by elegant window arch
+- Lush green foliage and delicate white jasmine flowers surrounding
+- Ultra-realistic, luxury skincare studio lighting
+- High-quality commercial product photography aesthetic
+
+TEXT & BRANDING (if applicable):
+- Include brand elements visible in reference: benefit callouts, Triple Moisturizer badge, 200ml size indicator
+- Keep styling consistent with reference composition
+
+BOTTOM FLOATING STRIP: Semi-transparent black horizontal floating strip (60% opacity) spanning full width, positioned 100px above bottom edge. Centered crisp white text inside:
+Line 1: "No. Etalase: 023"
+Line 2: "Cek link di bio!"
+
+Do not add any dimension labels, pixel numbers, technical measurements, arrows, or annotations.
