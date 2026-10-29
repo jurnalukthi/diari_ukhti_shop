@@ -42,8 +42,10 @@ def format_promo_tag(tag):
 def get_product_data():
     products = []
     # Cari semua file txt di 01_detail_produk
-    detail_files = glob.glob("01_detail_produk/*.txt")
-    detail_files.sort()
+    detail_files = sorted(
+        glob.glob("01_detail_produk/**/*.txt", recursive=True),
+        key=lambda x: os.path.splitext(os.path.basename(x))[0]
+    )
 
     for file_path in detail_files:
         base_name = os.path.basename(file_path)
@@ -69,14 +71,16 @@ def get_product_data():
         promo_tag = "PROMO SPESIAL"
         konten_dir = f"02_konten_affiliate/{indeks}"
         if os.path.exists(konten_dir):
-            json_files = glob.glob(f"{konten_dir}/*.txt")
-            if json_files:
+            txt_files = glob.glob(f"{konten_dir}/*.txt")
+            for tf in txt_files:
                 try:
-                    with open(json_files[0], "r", encoding="utf-8") as jf:
+                    with open(tf, "r", encoding="utf-8") as jf:
                         data_json = json.load(jf)
-                        promo_tag = data_json.get("promo_tag", "PROMO SPESIAL")
+                        if isinstance(data_json, dict) and "promo_tag" in data_json:
+                            promo_tag = data_json["promo_tag"]
+                            break
                 except Exception:
-                    pass
+                    continue
 
         # Cari gambar pertama di aset_produk
         thumbnail_src = ""

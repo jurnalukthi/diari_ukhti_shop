@@ -1,0 +1,12 @@
+{
+  "hook_1": "Capek pakai jas hujan murah tapi gampang sobek dan rembes di bagian celana pas hujan deras?",
+  "hook_2": "Diskon lima puluh dua persen! Jas hujan setelan setebal dan sekuat ini cuma delapan puluh ribuan aja!",
+  "hook_3": "Rahasia anti basah kuyup pas naik motor! Jas hujan efek daun talas dengan rating empat koma sembilan!",
+  "isi_suara": "Wajib punya Jas Hujan Monarki Rainex! Bahan PVC tebal elastis berefek daun talas. Celana udah press mesin anti rembes, plus perlindungan ganda resleting dan kancing. Warna estetik, ukuran sampai XXL!",
+  "cta": "Mumpung diskon setengah harga, buruan klik link di bio sekarang!",
+  "promo_tag": "DISKON 52% CUMA 80RB-AN",
+  "marketing_title": "Anti Hujan Rembes",
+  "marketing_subtitle": "Jas Hujan Awet",
+  "caption_ig": "Musim hujan tiba, jangan sampai salah pilih pelindung hujan. Jas Hujan Monarki Rainex hadir dengan bahan PVC tebal elastis yang punya efek daun talas, dijamin kuat dan anti bocor. Bagian celana sudah press mesin seam sealing ditambah perlindungan ganda resleting dan kancing. Pilihan warnanya estetik banget seperti Sage, Lilac, Dusty Pink, hingga Hitam, dengan ukuran lengkap M sampai XXL. Lagi diskon 52 persen jadi cuma Rp80.600 aja plus garansi retur. Yuk amankan warna favoritmu, langsung klik link di bio sekarang! #jashujan #jashujanmonarki #jashujanantiair #jashujanmotor #racunbelanja #aksesorismotor",
+  "caption_tiktok": "Jas hujan 80 ribuan kualitasnya sekuat ini? Udah efek daun talas, bahan PVC tebal elastis, dan celananya press anti rembes. Cek pilihan warna gemasnya, langsung klik link di bio sebelum kehabisan promo! #jashujan #jashujanviral #racunbelanja #rekomendasijashujan #fyp #fypindonesia"
+}
