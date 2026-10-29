@@ -8,43 +8,48 @@ Workflow otomatisasi pembuatan konten promosi video pendek Shopee Affiliate meng
 - Validasi video: `ffmpeg`, `ffprobe`
 
 ### Aturan Pembuatan Prompt Gambar
-- Jika prompt melibatkan model manusia (misal V1), WAJIB selalu menggunakan model wanita Indonesia berhijab (Indonesian Muslim woman wearing a neat hijab).
+- **Model Manusia**: Wajib model wanita Muslimah Indonesia berhijab rapi (Indonesian Muslim woman wearing a neat hijab).
+- **Format**: Potret 9:16 (1080x1920px).
+- **Produk Bersih / Unbranded**: Hilangkan semua logo, nama merek, dan teks dari kemasan/pakaian.
+- **DILARANG Minta AI Gambar Teks/Strip**: Prompt gambar harus bersih tanpa tulisan, logo, strip, atau watermark. Floating strip etalase ditambahkan otomatis via FFmpeg saat render video agar teks tajam dan konsisten.
 
 ## Alur Kerja 3 Tahap
 
-### Tahap 1 — Download Poster Asli & Generate Prompt (via opencode)
+### Tahap 1 — Siapkan Aset & Generate Prompt
 
-Minta opencode dengan format:
-```
-download poster untuk indeks 001: https://url1.jpg https://url2.jpg https://url3.jpg
-```
+1. Simpan detail produk ke `01_detail_produk/{indeks}.txt` (baris 1: link affiliate, baris 3 dst: judul & deskripsi).
+2. Simpan aset asli ke `03_aset_produk/{indeks}/`:
+   - Gambar: `image_01.webp` (atau jpg/png)
+   - Video (opsional jika ada): `video_01.mp4`
+3. Generate prompt DALL-E 3 bersih (clean photo only) → simpan ke `05_product_generate/{indeks}/prompts.txt`.
 
-opencode akan otomatis:
-1. Download setiap URL → simpan ke `03_aset_produk/001/image1.jpg`, `image2.jpg`, dst.
-2. Baca `01_detail_produk/001.txt`
-3. Generate 5 prompt DALL-E 3 → simpan ke `05_product_generate/001/prompts.txt`
+### Tahap 2 — Generate Gambar di ChatGPT (Manual)
 
-Syarat: file `01_detail_produk/001.txt` harus sudah ada sebelum request ke opencode.
+1. Buka ChatGPT (DALL-E 3).
+2. Upload foto referensi dari `03_aset_produk/{indeks}/`.
+3. Paste prompt dari `05_product_generate/{indeks}/prompts.txt`.
+4. Simpan gambar hasil generate ke `05_product_generate/{indeks}/image_01.png`.
 
-### Tahap 2 — Generate Poster di ChatGPT (Manual)
+### Tahap 3 — Generate Video, Voiceover, dan Update Web
 
-1. Buka `05_product_generate/001/prompts.txt`
-2. Upload foto referensi yang disebutkan di bagian atas file ke ChatGPT
-3. Paste prompt V1–V5 satu per satu
-4. Simpan hasil gambar ke folder `05_product_generate/001/` (format: jpg/png/webp)
+Jalankan proses render setelah gambar tersimpan di `05_product_generate/{indeks}/`.
 
-### Tahap 3 — Generate Video dengan Voiceover
+#### 1. Pembuatan Skrip & Voiceover
+- API `plan-combo` membuat skrip JSON (hook x3, isi suara, CTA, promo_tag, caption IG & TikTok) → simpan ke `02_konten_affiliate/{indeks}/`.
+- API Gemini TTS (`gemini-3.1-flash-tts-preview`) membuat voiceover → simpan ke `04_voice_over/{indeks}.wav`.
 
-Jalankan `main.py` setelah poster hasil ChatGPT tersimpan di `05_product_generate/001/`.
-```bash
-python main.py "01_detail_produk/001.txt"
-```
+#### 2. Render Video (FFmpeg)
+- **Mode Hybrid (Jika ada video di aset)**:
+  - 3 Detik pertama: Gambar poster hasil generate GPT (`05_product_generate/{indeks}/image_01.png`).
+  - Lanjutan: Video produk asli (`03_aset_produk/{indeks}/video_01.mp4`).
+  - Audio: Voiceover Gemini TTS (volume 1.2) di-mix dengan BGM video aset (volume 0.2, delay 3 detik).
+  - Floating Strip: Box hitam transparan 60% di bawah (`y=1570, h=120`), teks putih centered:
+    * Baris 1: `No. Etalase: {indeks}`
+    * Baris 2: `Cek link di bio!`
+  - Output: `02_konten_affiliate/{indeks}/{indeks}_IG_final.mp4`.
+- **Mode Slideshow (Jika aset hanya gambar)**:
+  - Concat gambar sesuai durasi voiceover + overlay FFmpeg potret 9:16 background blur adaptif.
 
-Proses otomatis:
-1. Membaca deskripsi produk dan mengekstrak meta-data.
-2. Menggunakan API `plan-combo` untuk membuat skrip promosi JSON (hook x3, isi, CTA, caption IG & TikTok).
-3. Menggunakan API Gemini TTS (`gemini-3.1-flash-tts-preview`) dengan rotasi API Key untuk voiceover (`04_voice_over/001.wav`).
-4. Menggabungkan poster dari `05_product_generate/001/` + voiceover menggunakan FFmpeg → video potret 9:16 dengan background blur adaptif, teks marketing di atas, label etalase melayang (100px dari bawah) di tengah strip transparan.
-5. Update halaman web etalase dan push ke GitHub.
-
-*Video siap diunggah tersimpan di `02_konten_affiliate/001/001_<jenis_produk>_<merk_produk>.mp4`.*
+#### 3. Update Web Etalase & Push GitHub
+- `generate_page.py` membaca rekursif semua produk di `01_detail_produk/**/*.txt`.
+- Otomatis `git add docs/`, commit, dan push ke GitHub.
