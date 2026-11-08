@@ -1,0 +1,12 @@
+{
+  "hook_1": "Capek es batu cepat cair atau botol sering bocor di tas?",
+  "hook_2": "Kapan lagi dapet dua tumbler stainless estetik seharga satu?",
+  "hook_3": "Ini tumbler viral tahan dingin 12 jam yang wajib punya!",
+  "isi_suara": "Kenalin tumbler couple stainless SUS 304. Tahan panas dingin sampai 12 jam, anti bocor 360 derajat, ada handle praktis plus dua mode minum: sedotan atau langsung teguk.",
+  "cta": "Lagi promo Beli 1 Gratis 1, serbu link di bio!",
+  "promo_tag": "BELI 1 GRATIS 1 165RB",
+  "marketing_title": "Tumbler Couple Estetik",
+  "marketing_subtitle": "Tahan Dingin Seharian",
+  "caption_ig": "Upgrade botol minum bareng doi yuk! ✨ Tumbler couple stainless SUS 304 vacuum insulated, ampuh jaga suhu panas atau dingin 6-12 jam. Aman anti bocor 360° plus ada sedotan dan handle praktis. Lagi ada promo Beli 1 Gratis 1! 🤍\n\nYuk checkout sekarang, klik link di bio!\n\n#tumblerestetik #tumblercouple #botolminumstainless #racunbelanja #tumblerheatpress #perlengkapanrumah",
+  "caption_tiktok": "Nemu tumbler couple estetik Beli 1 Gratis 1 cuma 160 ribuan! Udah stainless SUS 304 tahan dingin seharian. Jangan sampai nyesel kehabisan, langsung amankan di link bio! 🔥\n\n#fyp #racuntiktok #tumblerestetik #tumblerpasangan #racunshopee #belanjaonline"
+}
